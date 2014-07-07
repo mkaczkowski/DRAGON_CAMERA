@@ -96,7 +96,7 @@ angular.module('sioWebApp.home').controller('HomeCtrl', function ($scope, $ionic
 	};
 
 	$scope.getPicture = function(){
-		cameraService.takePicture("pictureContainer");
+		cameraService.getPicture("pictureContainer");
 	};
 
 	$scope.clearWhiteboard = function(){

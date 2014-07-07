@@ -45,7 +45,7 @@ var mySharedService = angular.module('sioWebApp.common').factory('mySharedServic
 
             ev.gesture.preventDefault();
 
-            if(ev.gesture.target.id == "draggableContainer"){
+            if(ev.gesture.target.id == "draggableContainer" || ev.gesture.target.id == "fullscreenContainer"){
                 sharedService.prepForBroadcast(null);
                 return;
             }
@@ -178,7 +178,7 @@ var mySharedService = angular.module('sioWebApp.common').factory('mySharedServic
 angular.module('sioWebApp.common').directive("draggableItem", function (mySharedService) {
     return {
         restrict: 'E',
-		template: '<img class="drag-and-drop" data-ng-src="{{src}}" style="padding: 8px;max-height: 100%;max-width: 100%;position: absolute;z-index: 1">',
+		template: '<img class="drag-and-drop" data-ng-src="{{src}}" style="padding: 8px;max-height: 100%;max-width: 100%;position: absolute;z-index: 2">',
         replace: true,
         piority: 10000,
         scope: {
@@ -288,10 +288,11 @@ angular.module('sioWebApp.common').directive('carousel', function($compile) {
                     var width = data["items"][i].width;
                     var height = data["items"][i].height;
                     var img = data["items"][i].img;
+					var fullscreen = data["items"][i].fullscreen;
                     var ext = ".png";//data["items"][i].ext;
                     var path = img + ext;
                     var thumb = img +".min" + ext;
-					content += "<div class='item item-light' style='padding: 7px; height: 69px;line-height: 69px;text-align: center;'><img class='thumb-img' style='max-width: 100%; max-height: 100%;' data-width='"+width+"' data-height='"+height+"' src='"+path+"' ></div>";
+					content += "<div class='item item-light' style='padding: 7px; height: 69px;line-height: 69px;text-align: center;'><img class='thumb-img' style='max-width: 100%; max-height: 100%;' data-width='"+width+"' data-height='"+height+"' src='"+path+"' data-fullscreen='"+(fullscreen == true)+"' ></div>";
                 }
                 element.html(content);
                 applyHandlers();
@@ -302,14 +303,20 @@ angular.module('sioWebApp.common').directive('carousel', function($compile) {
                     var targetElement = angular.element(event.target);
                     var widthAttr = parseInt(targetElement.attr("data-width"));
                     var heightAttr = parseInt(targetElement.attr("data-height"));
+					var fullscreen = JSON.parse(targetElement.attr("data-fullscreen"));
                     var srcAttr = targetElement.attr("src");
 
-                    var containerElement = angular.element(document.getElementById('draggableContainer'));
-                    var offsetTop = (containerElement.height() - heightAttr - 56)/2;
-                    var offsetLeft = (containerElement.width() - widthAttr)/2;
-                    var newElement = $compile('<draggable-item id="1" src="'+srcAttr+'" top="'+offsetTop+'px" left="'+offsetLeft+'px"/>')(scope);
-
-                    containerElement.append(newElement);
+					var containerElement;
+					if(fullscreen){
+						containerElement = angular.element(document.getElementById('fullscreenContainer'));
+						containerElement.attr("src",srcAttr);
+					}else{
+						containerElement = angular.element(document.getElementById('draggableContainer'));
+						var offsetTop = (containerElement.height() - heightAttr - 56)/2;
+						var offsetLeft = (containerElement.width() - widthAttr)/2;
+						var newElement = $compile('<draggable-item id="1" src="'+srcAttr+'" top="'+offsetTop+'px" left="'+offsetLeft+'px"/>')(scope);
+						containerElement.append(newElement);
+					}
                 })
             }
         }

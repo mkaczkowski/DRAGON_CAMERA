@@ -13,7 +13,11 @@
 
 	<div id="canvas" style="position: absolute; bottom: 70px; top: 55px; left: 0px; right: 0px">
 		<img id="pictureContainer" style="position: absolute; height: 100%; width: 100%;">
-		<div id="draggableContainer" style="position: absolute; height: 100%; width: 100%"> <!--draggable elements--> </div>
+
+		<div id="draggableContainer" style="position: absolute; height: 100%; width: 100%">
+			<img id="fullscreenContainer" style="position: absolute; height: 100%; width: 100%;">
+			<!--draggable elements-->
+		</div>
 
 		<div class="button-bar"  ng-show="isSelected && isExpanded" style="position: absolute; bottom: 0px; width: 100%; z-index: 5; background-color: #f8f8f8">
 			<button class="button icon ion-arrow-swap"  ng-click="mirror()"/>

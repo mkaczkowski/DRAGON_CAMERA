@@ -114,6 +114,24 @@
             "img": "data/images/boom3",
             "height": "200",
             "width": "200"
+        },
+		  {
+            "img": "data/images/zoom-brushes-01",
+            "height": "500",
+            "width": "500",
+			"fullscreen": true
+        },
+		  {
+            "img": "data/images/zoom-brushes-02",
+            "height": "500",
+            "width": "500",
+			"fullscreen": true
+        },
+		  {
+            "img": "data/images/zoom-brushes-03",
+            "height": "500",
+            "width": "500",
+			"fullscreen": true
         }
     ]
 }
