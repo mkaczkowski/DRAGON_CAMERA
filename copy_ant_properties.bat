@@ -1,0 +1,1 @@
+ xcopy /y ant.properties camera-android\platforms\android

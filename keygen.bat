@@ -1,0 +1,1 @@
+keytool -genkey -v -keystore dragon_camera2.keystore -alias dragon_camera2 -keyalg RSA -keysize 2048 -validity 10000

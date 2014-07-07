@@ -1,0 +1,1 @@
+mklink /d www C:\WORKSPACE\DRAGON_CAMERA\camera-app\dist
