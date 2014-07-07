@@ -157,6 +157,7 @@ var mySharedService = angular.module('sioWebApp.common').factory('mySharedServic
     };
 
     sharedService.clearAll = function() {
+		document.getElementById('fullscreenContainer').src = "";
         $rootScope.$broadcast('clearAll');
         this.prepForBroadcast(null);
     };
@@ -245,9 +246,9 @@ angular.module('sioWebApp.common').directive("draggableItem", function (myShared
             var verifyBorder = function(){
                 var imgElement = element;
 				if(!scope.isSelected){
-					imgElement.removeClass("selectedDraggable").css("border","3px dashed rgba(84, 85, 101, 0)");
+					imgElement.removeClass("selectedDraggable").css("border","3px dashed rgba(143, 143, 143, 0)");
 				}else{
-					imgElement.addClass("selectedDraggable").css("border","3px dashed rgba(84, 85, 101, 1)");
+					imgElement.addClass("selectedDraggable").css("border","3px dashed rgba(143, 143, 143, 1)");
 				}
             }
 
