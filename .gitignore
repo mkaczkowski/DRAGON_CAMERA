@@ -1,3 +1,5 @@
+.idea/
+
 camera-android/www/
 camera-android/platforms/android/*
 !/camera-android/platforms/android/src/

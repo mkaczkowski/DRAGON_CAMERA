@@ -1,5 +1,8 @@
 ﻿'use strict';
-var mySharedService = angular.module('sioWebApp.common').factory('mySharedService', function($rootScope) {
+var mySharedService = angular.module('sioWebApp.common').factory('mySharedService', function($rootScope, logger) {
+
+//	var LOG = logger.getInstance('mySharedService')
+
     var sharedService = {};
 
     var elements = {};
@@ -89,7 +92,6 @@ var mySharedService = angular.module('sioWebApp.common').factory('mySharedServic
     }
 
     sharedService.applyTransform = function (elementObj, transform) {
-        console.info("trans:"+transform)
         if(transform){
             elementObj.style.transform = transform;
             elementObj.style.oTransform = transform;
@@ -223,7 +225,6 @@ angular.module('sioWebApp.common').directive("draggableItem", function (myShared
             scope.$on('moveUp', function() {
                 if(scope.isSelected){
                     var zIndex = parseInt(element.css( "zIndex"));
-                    console.log(zIndex)
                     element.css( "zIndex", zIndex+1 );
                 }
             });
@@ -231,7 +232,6 @@ angular.module('sioWebApp.common').directive("draggableItem", function (myShared
             scope.$on('moveDown', function() {
                 if(scope.isSelected){
                     var zIndex = parseInt(element.css( "zIndex"));
-                    console.log(zIndex)
                     if(zIndex == 0) return;
                     element.css( "zIndex", zIndex-1  );
                 }
@@ -257,9 +257,9 @@ angular.module('sioWebApp.common').directive("draggableItem", function (myShared
                 mySharedService.prepForBroadcast(element);
             })
 
-            element.on('$destroy', function() {
-                //console.log("destroy element");
-            });
+//            element.on('$destroy', function() {
+//                //console.log("destroy element");
+//            });
         }
     };
 })

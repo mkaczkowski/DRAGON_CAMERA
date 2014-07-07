@@ -1,13 +1,16 @@
-angular.module('sioWebApp.common').factory('sharingService', function(configuration, $cordovaSocialSharing, notificationService) {
-    var shareService = {};
+angular.module('sioWebApp.common').factory('sharingService', function(configuration, $cordovaSocialSharing, notificationService, logger) {
+
+	var LOG = logger.getInstance('sharingService');
+
+	var shareService = {};
 
     shareService.shareViaFacebook = function(image) {
         var link = configuration.url;
         var message = "Magic Camera APP";
         $cordovaSocialSharing.shareViaFacebook(message, image, link).then(function(result) {
-            console.log("shareViaFacebook success! :"+result);
+			LOG.error("shareViaFacebook result:{0}",[result]);
         }, function(err) {
-            console.log("shareViaFacebook err:"+err);
+			LOG.error("shareViaFacebook error:{0}",[err]);
             notificationService.showError("Ooops. Something went wrong.");
         });
     };

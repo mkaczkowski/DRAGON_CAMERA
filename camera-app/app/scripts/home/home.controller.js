@@ -8,109 +8,109 @@
  * Controller of the sioWebApp
  */
 angular.module('sioWebApp.home').controller('HomeCtrl', function ($scope, $ionicPopup,$ionicLoading, $timeout,
-                                                                  imageService, cameraService, mySharedService,
-                                                                  sharingService, notificationService, networkService,
-                                                                  configuration) {
+		imageService, cameraService, mySharedService,
+		sharingService, notificationService, networkService,
+		configuration, logger) {
 
-    var loading;
-    var show = function() { loading = $ionicLoading.show({ content: 'Processing...' }); };
-    var hide = function(){ if(!loading) return; loading.hide(); };
+	var LOG = logger.getInstance('HomeCtrl');
 
-    $scope.isEmpty = true;
-    $scope.isSelected = false;
-    $scope.isExpanded = true;
+	var loading;
+	var show = function() { loading = $ionicLoading.show({ content: 'Processing...' }); };
+	var hide = function(){ if(!loading) return; loading.hide(); };
 
-    $scope.$on('handleBroadcast', function() {
-        $scope.isSelected = mySharedService.message;
-        if(mySharedService.message){
-            $scope.isEmpty = false;
-        }
-    });
+	$scope.isEmpty = true;
+	$scope.isSelected = false;
+	$scope.isExpanded = true;
 
-    $scope.resetElement = function(){
-        console.log("resetElement");
-        mySharedService.resetElement();
-    };
+	$scope.$on('handleBroadcast', function() {
+		$scope.isSelected = mySharedService.message;
+		if(mySharedService.message){
+			$scope.isEmpty = false;
+		}
+	});
 
-    $scope.removeElement = function(){
-        console.log("remove Element");
-        mySharedService.removeElement();
-        $scope.isEmpty = (angular.element(".drag-and-drop").length == 0);
-    };
+	$scope.resetElement = function(){
+		mySharedService.resetElement();
+	};
 
-    $scope.moveUp = function(){
-        mySharedService.moveUp();
-    };
+	$scope.removeElement = function(){
+		mySharedService.removeElement();
+		$scope.isEmpty = (angular.element(".drag-and-drop").length == 0);
+	};
 
-    $scope.moveDown = function(){
-        mySharedService.moveDown();
-    };
+	$scope.moveUp = function(){
+		mySharedService.moveUp();
+	};
 
-    $scope.mirror = function(){
-        mySharedService.mirror();
-    };
+	$scope.moveDown = function(){
+		mySharedService.moveDown();
+	};
 
-    $scope.hideToolbar = function(){
-        //mySharedService.prepForBroadcast(null);
-        $scope.isExpanded = false;
-    };
+	$scope.mirror = function(){
+		mySharedService.mirror();
+	};
 
-    $scope.showToolbar = function(){
-        //mySharedService.prepForBroadcast(null);
-        $scope.isExpanded = true;
-    };
+	$scope.hideToolbar = function(){
+		//mySharedService.prepForBroadcast(null);
+		$scope.isExpanded = false;
+	};
 
-    $scope.saveCanvasToFile = function(successHandler){
-        show();
-        mySharedService.prepForBroadcast(null);
-        $timeout(function(){
-            html2canvas( [ document.getElementById('canvas') ], {
-                onrendered: function(canvas) {
+	$scope.showToolbar = function(){
+		//mySharedService.prepForBroadcast(null);
+		$scope.isExpanded = true;
+	};
 
-				/*	var dataUrl = canvas.toDataURL();
-					window.open(dataUrl);*/
+	$scope.saveCanvasToFile = function(successHandler){
+		show();
+		mySharedService.prepForBroadcast(null);
+		$timeout(function(){
+			html2canvas( [ document.getElementById('canvas') ], {
+				onrendered: function(canvas) {
 
-                    imageService.saveCanvasToFile(canvas,
-                        function(msg){
-                            hide();
-                            if(successHandler){
-                                successHandler(msg)
-                            }else{
-                                notificationService.savedConfirm(msg,
-                                    function (path) {$scope.sharePicure(path)});
-                            }
-                        },function(err){
-                            hide();
-                            console.log("saveCanvasToFile err:"+err)
-                            notificationService.showError("Ooops. Something went wrong.")
-                        });
-                }
-            });
-        },500);
-    };
+					/*	var dataUrl = canvas.toDataURL();
+					 window.open(dataUrl);*/
 
-    $scope.sharePicure = function(){
-        $scope.saveCanvasToFile(function(filePath){
-            sharingService.shareViaFacebook(filePath);
-        });
-    };
+					imageService.saveCanvasToFile(canvas,
+							function(msg){
+								hide();
+								if(successHandler){
+									successHandler(msg)
+								}else{
+									notificationService.savedConfirm(msg,
+											function (path) {$scope.sharePicure(path)});
+								}
+							},function(err){
+								hide();
+								LOG.error("saveCanvasToFile err:{0}",[err])
+								notificationService.showError("Ooops. Something went wrong.")
+							});
+				}
+			});
+		},500);
+	};
 
-    $scope.getPicture = function(){
-        cameraService.takePicture("pictureContainer");
-    };
+	$scope.sharePicure = function(){
+		$scope.saveCanvasToFile(function(filePath){
+			sharingService.shareViaFacebook(filePath);
+		});
+	};
 
-    $scope.clearWhiteboard = function(){
-        notificationService.confirm('Are you sure you want to clear?',
-            function() {
-                mySharedService.clearAll();
-                $scope.isEmpty = true;
-            });
-    };
+	$scope.getPicture = function(){
+		cameraService.takePicture("pictureContainer");
+	};
+
+	$scope.clearWhiteboard = function(){
+		notificationService.confirm('Are you sure you want to clear?',
+				function() {
+					mySharedService.clearAll();
+					$scope.isEmpty = true;
+				});
+	};
 
 	$scope.loadImage = function(){
 		cameraService.loadImageFromLibrary("pictureContainer");
 	};
 
-    mySharedService.init();
+	mySharedService.init();
 	notificationService.showInitPopup($scope.getPicture,$scope.loadImage);
 });

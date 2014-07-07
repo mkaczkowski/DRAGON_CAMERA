@@ -14,8 +14,8 @@ var sioWebApp = angular.module('sioWebApp', [
     'sioWebApp.home'
 ]);
 
-sioWebApp.config(function(loggerProvider) {
-    loggerProvider.enabled(true);
+sioWebApp.config(function(loggerProvider,configuration) {
+    loggerProvider.enabled(!configuration.isProd);
 });
 
 sioWebApp.controller('AppCtrl', function ($scope,networkService, configuration) {

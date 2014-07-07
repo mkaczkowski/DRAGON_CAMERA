@@ -1,5 +1,7 @@
-angular.module('sioWebApp.common').factory('cameraService', function($cordovaCamera, notificationService) {
+angular.module('sioWebApp.common').factory('cameraService', function($cordovaCamera, notificationService, logger) {
 	var cameraService = {};
+
+	var LOG = logger.getInstance('cameraService');
 
 	cameraService.takePhotoOptions = {
 		quality : 100,
@@ -23,11 +25,11 @@ angular.module('sioWebApp.common').factory('cameraService', function($cordovaCam
 		cameraService.takePhotoOptions.targetHeight = canvas.height();
 
 		$cordovaCamera.getPicture(cameraService.takePhotoOptions).then(function(imageData){
-					console.log("cameraService.getPicture2 success:"+imageData)
+					LOG.info("getPicture success:{0}",[imageData]);
 					var image = document.getElementById(dest);
 					image.src = "data:image/jpeg;base64," + imageData
 				}, function(err) {
-					console.error("error!!:"+err)
+					LOG.error("getPicture error:{0}",[err])
 					notificationService.showError("Ooops. Something went wrong.")
 				}
 		)
@@ -39,12 +41,12 @@ angular.module('sioWebApp.common').factory('cameraService', function($cordovaCam
 		cameraService.loadImageOptions.targetHeight = canvas.height();
 
 		$cordovaCamera.getPicture(cameraService.loadImageOptions).then(function (imageData) {
-			console.info("loadImageFromLibrary imageURI:" + imageData);
+			LOG.info("loadImageFromLibrary imageURI:{0}",[imageData])
 			var largeImage = document.getElementById(dest);
 			largeImage.style.display = 'block';
 			largeImage.src = imageData;
 		}, function (err) {
-			console.error("error!!:" + err)
+			LOG.error("loadImageFromLibrary error:{0}",[err])
 			notificationService.showError("Ooops. Something went wrong.")
 		})
 	};

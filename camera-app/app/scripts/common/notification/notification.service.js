@@ -11,18 +11,12 @@ angular.module('sioWebApp.common').factory('notificationService', function($cord
             title: msg,
             okType: 'button-assertive'
         });
-        alertPopup.then(function(res) {
-            console.log('showAlert closed.');
-        });
     };
 
 	notificationService.showInfo = function(msg) {
 		var alertPopup = $ionicPopup.alert({
 			title: msg,
 			okType: 'button-energized'
-		});
-		alertPopup.then(function(res) {
-			console.log('showAlert closed.');
 		});
 	};
 
@@ -97,10 +91,6 @@ angular.module('sioWebApp.common').factory('notificationService', function($cord
 					return true;
 				}
 			}]
-		});
-
-		alertPopup.then(function(res) {
-			console.log('showAlert closed.');
 		});
 	};
 
