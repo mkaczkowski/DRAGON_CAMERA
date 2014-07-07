@@ -1,28 +1,266 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AndroidConfiguredLogFilters">
+    <filters>
+      <filter>
+        <option name="logLevel" value="verbose" />
+        <option name="logMessagePattern" value="" />
+        <option name="logTagPattern" value="Web" />
+        <option name="name" value="Unnamed-0" />
+        <option name="packageNamePattern" value="" />
+        <option name="pid" value="" />
+      </filter>
+    </filters>
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="08aaa4f5-c55f-4827-b987-8be40e15e954" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-app/app/data/background.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-app/_others/zoom1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-app/app/data/images/zoom1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-app/_others/zoom2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-app/app/data/images/zoom2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-app/_others/zoom3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-app/_others/zoom4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-app/app/data/images/zoom4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-app/_others/zoom5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-app/_others/zoom6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-app/app/data/images/zoom6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-app/_others/zoom7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-app/_others/zoom8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-app/_others/zoom9.png" />
-      <change type="DELETED" beforePath="C:\WORKSPACE\DRAGON_CAMERA\camera-app\app\data\images\zoom-brushes-01.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\WORKSPACE\DRAGON_CAMERA\camera-app\app\data\images\zoom-brushes-02.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\WORKSPACE\DRAGON_CAMERA\camera-app\app\data\images\zoom-brushes-03.png" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/Dragon-Ball-psd4723.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/Lomo-Camera-iOS-7-Flat-Icon.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-app/app/data/images/aura2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-app/app/_data/images/beam0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-app/app/data/images/beam0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-app/app/_data/images/beam12.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-app/app/data/images/beam12.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-app/app/_data/images/beam13.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-app/app/data/images/beam13.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-app/app/_data/images/beam14.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-app/app/data/images/beam14.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-app/app/_data/images/beam15.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-app/app/data/images/beam15.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-app/app/_data/images/beam16.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-app/app/data/images/beam16.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-app/app/_data/images/beam17.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-app/app/data/images/beam17.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-app/app/_data/images/beam18.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-app/app/data/images/beam18.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-app/app/_data/images/beam19.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-app/app/data/images/beam19.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-app/app/_data/images/beam20.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-app/app/data/images/beam20.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-app/app/data/images/boom1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/camera-580142-packard-bell-easy-note-ts-ents11hr-2334g64mnkk-lx-bwu02-061.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/camera-lens-icon (1).jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/camera-lens-icon.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/camera_lens_311460.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-app/app/data/images/hair10.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-app/app/data/images/hair11.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-app/app/data/images/hair12.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-app/app/data/images/hair13.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-app/app/data/images/hair14.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-app/app/data/images/hair7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-app/app/data/images/hair8.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-app/app/data/images/hair9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stuff/icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/icon_net.pdn" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-app/app/_data/images/zoom1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-app/app/_data/images/zoom2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-app/app/_data/images/zoom4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-app/app/_data/images/zoom6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stuff/config.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/copy_config_xml.bat" />
+      <change type="DELETED" beforePath="D:\WORKSPACE\DRAGON_CAM\camera-android\platforms\android\CordovaLib\ant-gen\R.java.d" afterPath="" />
+      <change type="DELETED" beforePath="D:\WORKSPACE\DRAGON_CAM\camera-android\platforms\android\CordovaLib\ant-gen\org\apache\cordova\BuildConfig.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\WORKSPACE\DRAGON_CAM\camera-android\platforms\android\ant-gen\R.java.d" afterPath="" />
+      <change type="DELETED" beforePath="D:\WORKSPACE\DRAGON_CAM\camera-android\platforms\android\ant-gen\com\dragon\app2\BuildConfig.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\WORKSPACE\DRAGON_CAM\camera-android\platforms\android\ant-gen\com\dragon\app2\R.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\WORKSPACE\DRAGON_CAM\camera-android\platforms\android\assets\_where-is-www.txt" afterPath="" />
+      <change type="DELETED" beforePath="D:\WORKSPACE\DRAGON_CAM\camera-android\platforms\android\assets\www\404.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\WORKSPACE\DRAGON_CAM\camera-android\platforms\android\assets\www\data\images\boom2.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\WORKSPACE\DRAGON_CAM\camera-android\platforms\android\assets\www\favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="D:\WORKSPACE\DRAGON_CAM\camera-android\platforms\android\assets\www\images\thumbs\owl1.bb8d73d4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\WORKSPACE\DRAGON_CAM\camera-android\platforms\android\assets\www\images\thumbs\owl2.480586fa.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\WORKSPACE\DRAGON_CAM\camera-android\platforms\android\assets\www\images\thumbs\owl3.2d4966ad.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\WORKSPACE\DRAGON_CAM\camera-android\platforms\android\assets\www\images\thumbs\owl4.8d2e4ba2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\WORKSPACE\DRAGON_CAM\camera-android\platforms\android\assets\www\images\thumbs\owl5.aea5074c.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\WORKSPACE\DRAGON_CAM\camera-android\platforms\android\assets\www\images\thumbs\owl6.94e16430.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\WORKSPACE\DRAGON_CAM\camera-android\platforms\android\assets\www\images\thumbs\owl7.7eea0fc4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\WORKSPACE\DRAGON_CAM\camera-android\platforms\android\assets\www\images\thumbs\owl8.b171024a.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\WORKSPACE\DRAGON_CAM\camera-android\platforms\android\assets\www\plugins\ca.purplemad.wallpaper\www\wallpaper.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\WORKSPACE\DRAGON_CAM\camera-android\platforms\android\assets\www\robots.txt" afterPath="" />
+      <change type="DELETED" beforePath="D:\WORKSPACE\DRAGON_CAM\camera-android\platforms\android\assets\www\scripts\contact.all.d41d8cd9.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\WORKSPACE\DRAGON_CAM\camera-android\platforms\android\assets\www\scripts\scripts.207ff1d5.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\WORKSPACE\DRAGON_CAM\camera-android\platforms\android\gen\R.java.d" afterPath="" />
+      <change type="DELETED" beforePath="D:\WORKSPACE\DRAGON_CAM\camera-android\platforms\android\gen\com\dragon\app2\BuildConfig.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\WORKSPACE\DRAGON_CAM\camera-android\platforms\android\gen\com\dragon\app2\R.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\WORKSPACE\DRAGON_CAM\camera-android\platforms\android\res\drawable-hdpi\icon.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\WORKSPACE\DRAGON_CAM\camera-android\platforms\android\res\drawable-ldpi\icon.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\WORKSPACE\DRAGON_CAM\camera-android\platforms\android\res\drawable-mdpi\icon.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\WORKSPACE\DRAGON_CAM\camera-android\platforms\android\res\drawable-xhdpi\icon.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\WORKSPACE\DRAGON_CAM\camera-android\plugins\ca.purplemad.wallpaper\.fetch.json" afterPath="" />
+      <change type="DELETED" beforePath="D:\WORKSPACE\DRAGON_CAM\camera-android\plugins\ca.purplemad.wallpaper\LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="D:\WORKSPACE\DRAGON_CAM\camera-android\plugins\ca.purplemad.wallpaper\README.md" afterPath="" />
+      <change type="DELETED" beforePath="D:\WORKSPACE\DRAGON_CAM\camera-android\plugins\ca.purplemad.wallpaper\plugin.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\WORKSPACE\DRAGON_CAM\camera-android\plugins\ca.purplemad.wallpaper\src\android\Wallpaper.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\WORKSPACE\DRAGON_CAM\camera-android\plugins\ca.purplemad.wallpaper\src\ca.purplemad.wallpaper.iml" afterPath="" />
+      <change type="DELETED" beforePath="D:\WORKSPACE\DRAGON_CAM\camera-android\plugins\ca.purplemad.wallpaper\www\wallpaper.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\WORKSPACE\DRAGON_CAM\camera-app\app\.buildignore" afterPath="" />
+      <change type="DELETED" beforePath="D:\WORKSPACE\DRAGON_CAM\camera-app\app\.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="D:\WORKSPACE\DRAGON_CAM\camera-app\app\404.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\WORKSPACE\DRAGON_CAM\camera-app\app\_data\images\boom2.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\WORKSPACE\DRAGON_CAM\camera-app\app\data\images\boom2.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\WORKSPACE\DRAGON_CAM\camera-app\app\favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="D:\WORKSPACE\DRAGON_CAM\camera-app\app\robots.txt" afterPath="" />
+      <change type="DELETED" beforePath="D:\WORKSPACE\DRAGON_CAM\camera-app\dist\.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="D:\WORKSPACE\DRAGON_CAM\camera-app\dist\404.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\WORKSPACE\DRAGON_CAM\camera-app\dist\data\images\boom2.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\WORKSPACE\DRAGON_CAM\camera-app\dist\favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="D:\WORKSPACE\DRAGON_CAM\camera-app\dist\images\thumbs\owl1.bb8d73d4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\WORKSPACE\DRAGON_CAM\camera-app\dist\images\thumbs\owl2.480586fa.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\WORKSPACE\DRAGON_CAM\camera-app\dist\images\thumbs\owl3.2d4966ad.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\WORKSPACE\DRAGON_CAM\camera-app\dist\images\thumbs\owl4.8d2e4ba2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\WORKSPACE\DRAGON_CAM\camera-app\dist\images\thumbs\owl5.aea5074c.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\WORKSPACE\DRAGON_CAM\camera-app\dist\images\thumbs\owl6.94e16430.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\WORKSPACE\DRAGON_CAM\camera-app\dist\images\thumbs\owl7.7eea0fc4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\WORKSPACE\DRAGON_CAM\camera-app\dist\images\thumbs\owl8.b171024a.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\WORKSPACE\DRAGON_CAM\camera-app\dist\robots.txt" afterPath="" />
+      <change type="DELETED" beforePath="D:\WORKSPACE\DRAGON_CAM\camera-app\dist\scripts\contact.all.d41d8cd9.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\WORKSPACE\DRAGON_CAM\camera-app\dist\scripts\scripts.207ff1d5.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/com/squareup/okhttp/Address.class" afterPath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/com/squareup/okhttp/Address.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/org/apache/cordova/App.class" afterPath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/org/apache/cordova/App.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/com/squareup/okhttp/ConnectionPool$1.class" afterPath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/com/squareup/okhttp/ConnectionPool$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/com/squareup/okhttp/ConnectionPool.class" afterPath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/com/squareup/okhttp/ConnectionPool.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/org/apache/cordova/CordovaActivity$4.class" afterPath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/org/apache/cordova/CordovaActivity$4.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/org/apache/cordova/CordovaActivity$5.class" afterPath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/org/apache/cordova/CordovaActivity$5.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/org/apache/cordova/CordovaActivity.class" afterPath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/org/apache/cordova/CordovaActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/org/apache/cordova/CordovaChromeClient.class" afterPath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/org/apache/cordova/CordovaChromeClient.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/org/apache/cordova/CordovaWebView.class" afterPath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/org/apache/cordova/CordovaWebView.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/org/apache/cordova/CordovaWebViewClient$1.class" afterPath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/org/apache/cordova/CordovaWebViewClient$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/org/apache/cordova/CordovaWebViewClient.class" afterPath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/org/apache/cordova/CordovaWebViewClient.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/com/squareup/okhttp/internal/DiskLruCache.class" afterPath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/com/squareup/okhttp/internal/DiskLruCache.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/com/squareup/okhttp/Dispatcher.class" afterPath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/com/squareup/okhttp/Dispatcher.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/com/squareup/okhttp/internal/Dns.class" afterPath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/com/squareup/okhttp/internal/Dns.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/com/squareup/okhttp/internal/http/HttpAuthenticator.class" afterPath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/com/squareup/okhttp/internal/http/HttpAuthenticator.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/com/squareup/okhttp/internal/http/HttpDate.class" afterPath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/com/squareup/okhttp/internal/http/HttpDate.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/com/squareup/okhttp/internal/http/HttpEngine.class" afterPath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/com/squareup/okhttp/internal/http/HttpEngine.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/com/squareup/okhttp/HttpResponseCache$CacheRequestImpl.class" afterPath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/com/squareup/okhttp/HttpResponseCache$CacheRequestImpl.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/com/squareup/okhttp/HttpResponseCache.class" afterPath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/com/squareup/okhttp/HttpResponseCache.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/com/squareup/okhttp/internal/spdy/IncomingStreamHandler.class" afterPath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/com/squareup/okhttp/internal/spdy/IncomingStreamHandler.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/com/squareup/okhttp/internal/spdy/NameValueBlockReader.class" afterPath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/com/squareup/okhttp/internal/spdy/NameValueBlockReader.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/org/apache/cordova/NativeToJsMessageQueue$LoadUrlBridgeMode.class" afterPath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/org/apache/cordova/NativeToJsMessageQueue$LoadUrlBridgeMode.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/org/apache/cordova/NativeToJsMessageQueue$OnlineEventsBridgeMode.class" afterPath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/org/apache/cordova/NativeToJsMessageQueue$OnlineEventsBridgeMode.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/com/squareup/okhttp/internal/tls/OkHostnameVerifier.class" afterPath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/com/squareup/okhttp/internal/tls/OkHostnameVerifier.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/com/squareup/okhttp/OkHttpClient.class" afterPath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/com/squareup/okhttp/OkHttpClient.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/org/apache/cordova/PluginManager$PluginManagerService.class" afterPath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/org/apache/cordova/PluginManager$PluginManagerService.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/org/apache/cordova/PluginManager.class" afterPath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/org/apache/cordova/PluginManager.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/com/squareup/okhttp/internal/http/RawHeaders.class" afterPath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/com/squareup/okhttp/internal/http/RawHeaders.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/com/squareup/okhttp/Request$Body$1.class" afterPath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/com/squareup/okhttp/Request$Body$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/com/squareup/okhttp/Request$Body$2.class" afterPath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/com/squareup/okhttp/Request$Body$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/com/squareup/okhttp/Request$Body.class" afterPath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/com/squareup/okhttp/Request$Body.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/com/squareup/okhttp/internal/http/RequestHeaders.class" afterPath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/com/squareup/okhttp/internal/http/RequestHeaders.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/com/squareup/okhttp/internal/http/ResponseHeaders.class" afterPath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/com/squareup/okhttp/internal/http/ResponseHeaders.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/com/squareup/okhttp/internal/spdy/Spdy3$Writer.class" afterPath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/com/squareup/okhttp/internal/spdy/Spdy3$Writer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/com/squareup/okhttp/internal/spdy/SpdyConnection$Reader.class" afterPath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/com/squareup/okhttp/internal/spdy/SpdyConnection$Reader.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/com/squareup/okhttp/internal/spdy/SpdyConnection.class" afterPath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/com/squareup/okhttp/internal/spdy/SpdyConnection.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/com/squareup/okhttp/internal/StrictLineReader.class" afterPath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/com/squareup/okhttp/internal/StrictLineReader.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/com/squareup/okhttp/internal/Util.class" afterPath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/com/squareup/okhttp/internal/Util.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-app/app/_data/images/aura1.png" afterPath="$PROJECT_DIR$/camera-app/app/_data/images/aura1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-app/app/_data/images/aura2.png" afterPath="$PROJECT_DIR$/camera-app/app/_data/images/aura2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/assets/www/data/images/aura3.png" afterPath="$PROJECT_DIR$/camera-android/platforms/android/assets/www/data/images/aura3.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-app/app/_data/images/aura3.png" afterPath="$PROJECT_DIR$/camera-app/app/_data/images/aura3.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-app/app/data/images/aura3.png" afterPath="$PROJECT_DIR$/camera-app/app/data/images/aura3.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-app/dist/data/images/aura3.png" afterPath="$PROJECT_DIR$/camera-app/dist/data/images/aura3.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/assets/www/data/images/aura4.png" afterPath="$PROJECT_DIR$/camera-android/platforms/android/assets/www/data/images/aura4.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-app/app/_data/images/aura4.png" afterPath="$PROJECT_DIR$/camera-app/app/_data/images/aura4.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-app/app/data/images/aura4.png" afterPath="$PROJECT_DIR$/camera-app/app/data/images/aura4.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-app/dist/data/images/aura4.png" afterPath="$PROJECT_DIR$/camera-app/dist/data/images/aura4.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-app/app/_data/images/aura5.png" afterPath="$PROJECT_DIR$/camera-app/app/_data/images/aura5.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-app/app/_data/images/beam1.png" afterPath="$PROJECT_DIR$/camera-app/app/_data/images/beam1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-app/app/_data/images/beam10.png" afterPath="$PROJECT_DIR$/camera-app/app/_data/images/beam10.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-app/app/_data/images/beam11.png" afterPath="$PROJECT_DIR$/camera-app/app/_data/images/beam11.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-app/app/_data/images/beam2.png" afterPath="$PROJECT_DIR$/camera-app/app/_data/images/beam2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-app/app/_data/images/beam3.png" afterPath="$PROJECT_DIR$/camera-app/app/_data/images/beam3.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-app/app/_data/images/beam4.png" afterPath="$PROJECT_DIR$/camera-app/app/_data/images/beam4.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-app/app/_data/images/beam5.png" afterPath="$PROJECT_DIR$/camera-app/app/_data/images/beam5.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-app/app/_data/images/beam6.png" afterPath="$PROJECT_DIR$/camera-app/app/_data/images/beam6.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-app/app/_data/images/beam7.png" afterPath="$PROJECT_DIR$/camera-app/app/_data/images/beam7.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/assets/www/data/images/beam8.png" afterPath="$PROJECT_DIR$/camera-android/platforms/android/assets/www/data/images/beam8.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-app/app/_data/images/beam8.png" afterPath="$PROJECT_DIR$/camera-app/app/_data/images/beam8.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-app/app/data/images/beam8.png" afterPath="$PROJECT_DIR$/camera-app/app/data/images/beam8.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-app/dist/data/images/beam8.png" afterPath="$PROJECT_DIR$/camera-app/dist/data/images/beam8.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-app/app/_data/images/beam9.png" afterPath="$PROJECT_DIR$/camera-app/app/_data/images/beam9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-app/app/_data/images/boom1.png" afterPath="$PROJECT_DIR$/camera-app/app/_data/images/boom1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-app/app/_data/images/boom3.png" afterPath="$PROJECT_DIR$/camera-app/app/_data/images/boom3.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes.jar" afterPath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-app/app/_data/images/hair1.png" afterPath="$PROJECT_DIR$/camera-app/app/_data/images/hair1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-app/app/_data/images/hair2.png" afterPath="$PROJECT_DIR$/camera-app/app/_data/images/hair2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-app/app/_data/images/hair3.png" afterPath="$PROJECT_DIR$/camera-app/app/_data/images/hair3.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-app/app/_data/images/hair4.png" afterPath="$PROJECT_DIR$/camera-app/app/_data/images/hair4.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-app/app/_data/images/hair5.png" afterPath="$PROJECT_DIR$/camera-app/app/_data/images/hair5.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-app/app/_data/images/hair6.png" afterPath="$PROJECT_DIR$/camera-app/app/_data/images/hair6.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/res/drawable/icon.png" afterPath="$PROJECT_DIR$/camera-android/platforms/android/res/drawable/icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/assets/www/data/images/misc1.png" afterPath="$PROJECT_DIR$/camera-android/platforms/android/assets/www/data/images/misc1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-app/app/_data/images/misc1.png" afterPath="$PROJECT_DIR$/camera-app/app/_data/images/misc1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-app/app/data/images/misc1.png" afterPath="$PROJECT_DIR$/camera-app/app/data/images/misc1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-app/dist/data/images/misc1.png" afterPath="$PROJECT_DIR$/camera-app/dist/data/images/misc1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/AndroidManifest.xml.d" afterPath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/AndroidManifest.xml.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/AndroidManifest.xml" afterPath="$PROJECT_DIR$/camera-android/platforms/android/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/assets/www/plugins/org.apache.cordova.camera/www/Camera.js" afterPath="$PROJECT_DIR$/camera-android/platforms/android/assets/www/plugins/org.apache.cordova.camera/www/Camera.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/assets/www/plugins/org.apache.cordova.camera/www/CameraConstants.js" afterPath="$PROJECT_DIR$/camera-android/platforms/android/assets/www/plugins/org.apache.cordova.camera/www/CameraConstants.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/assets/www/plugins/org.apache.cordova.camera/www/CameraPopoverHandle.js" afterPath="$PROJECT_DIR$/camera-android/platforms/android/assets/www/plugins/org.apache.cordova.camera/www/CameraPopoverHandle.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/assets/www/plugins/org.apache.cordova.camera/www/CameraPopoverOptions.js" afterPath="$PROJECT_DIR$/camera-android/platforms/android/assets/www/plugins/org.apache.cordova.camera/www/CameraPopoverOptions.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/assets/www/plugins/org.devgeeks.Canvas2ImagePlugin/www/Canvas2ImagePlugin.js" afterPath="$PROJECT_DIR$/camera-android/platforms/android/assets/www/plugins/org.devgeeks.Canvas2ImagePlugin/www/Canvas2ImagePlugin.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/assets/www/plugins/org.apache.cordova.network-information/www/Connection.js" afterPath="$PROJECT_DIR$/camera-android/platforms/android/assets/www/plugins/org.apache.cordova.network-information/www/Connection.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/assets/www/plugins/org.apache.cordova.file/www/DirectoryEntry.js" afterPath="$PROJECT_DIR$/camera-android/platforms/android/assets/www/plugins/org.apache.cordova.file/www/DirectoryEntry.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/assets/www/plugins/org.apache.cordova.file/www/DirectoryReader.js" afterPath="$PROJECT_DIR$/camera-android/platforms/android/assets/www/plugins/org.apache.cordova.file/www/DirectoryReader.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/assets/www/plugins/org.apache.cordova.file/www/Entry.js" afterPath="$PROJECT_DIR$/camera-android/platforms/android/assets/www/plugins/org.apache.cordova.file/www/Entry.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/assets/www/plugins/org.apache.cordova.file/www/File.js" afterPath="$PROJECT_DIR$/camera-android/platforms/android/assets/www/plugins/org.apache.cordova.file/www/File.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/assets/www/plugins/org.apache.cordova.file/www/FileEntry.js" afterPath="$PROJECT_DIR$/camera-android/platforms/android/assets/www/plugins/org.apache.cordova.file/www/FileEntry.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/assets/www/plugins/org.apache.cordova.file/www/FileError.js" afterPath="$PROJECT_DIR$/camera-android/platforms/android/assets/www/plugins/org.apache.cordova.file/www/FileError.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/assets/www/plugins/org.apache.cordova.file/www/FileReader.js" afterPath="$PROJECT_DIR$/camera-android/platforms/android/assets/www/plugins/org.apache.cordova.file/www/FileReader.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/assets/www/plugins/org.apache.cordova.file/www/FileSystem.js" afterPath="$PROJECT_DIR$/camera-android/platforms/android/assets/www/plugins/org.apache.cordova.file/www/FileSystem.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/assets/www/plugins/org.apache.cordova.file/www/android/FileSystem.js" afterPath="$PROJECT_DIR$/camera-android/platforms/android/assets/www/plugins/org.apache.cordova.file/www/android/FileSystem.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/assets/www/plugins/org.apache.cordova.file/www/FileUploadOptions.js" afterPath="$PROJECT_DIR$/camera-android/platforms/android/assets/www/plugins/org.apache.cordova.file/www/FileUploadOptions.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/assets/www/plugins/org.apache.cordova.file/www/FileUploadResult.js" afterPath="$PROJECT_DIR$/camera-android/platforms/android/assets/www/plugins/org.apache.cordova.file/www/FileUploadResult.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/assets/www/plugins/org.apache.cordova.file/www/FileWriter.js" afterPath="$PROJECT_DIR$/camera-android/platforms/android/assets/www/plugins/org.apache.cordova.file/www/FileWriter.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/assets/www/plugins/org.apache.cordova.file/www/Flags.js" afterPath="$PROJECT_DIR$/camera-android/platforms/android/assets/www/plugins/org.apache.cordova.file/www/Flags.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-app/Gruntfile.js" afterPath="$PROJECT_DIR$/camera-app/Gruntfile.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/assets/www/plugins/org.apache.cordova.file/www/LocalFileSystem.js" afterPath="$PROJECT_DIR$/camera-android/platforms/android/assets/www/plugins/org.apache.cordova.file/www/LocalFileSystem.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/assets/www/plugins/org.apache.cordova.file/www/Metadata.js" afterPath="$PROJECT_DIR$/camera-android/platforms/android/assets/www/plugins/org.apache.cordova.file/www/Metadata.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/assets/www/plugins/org.apache.cordova.file/www/ProgressEvent.js" afterPath="$PROJECT_DIR$/camera-android/platforms/android/assets/www/plugins/org.apache.cordova.file/www/ProgressEvent.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/assets/www/plugins/nl.x-services.plugins.socialsharing/www/SocialSharing.js" afterPath="$PROJECT_DIR$/camera-android/platforms/android/assets/www/plugins/nl.x-services.plugins.socialsharing/www/SocialSharing.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/plugins/android.json" afterPath="$PROJECT_DIR$/camera-android/plugins/android.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-app/app/scripts/app.js" afterPath="$PROJECT_DIR$/camera-app/app/scripts/app.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/build.prop" afterPath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/build.prop" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-app/app/scripts/common/picture/camera.service.js" afterPath="$PROJECT_DIR$/camera-app/app/scripts/common/picture/camera.service.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-app/app/scripts/config.js" afterPath="$PROJECT_DIR$/camera-app/app/scripts/config.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/res/xml/config.xml" afterPath="$PROJECT_DIR$/camera-android/platforms/android/res/xml/config.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/assets/www/cordova_plugins.js" afterPath="$PROJECT_DIR$/camera-android/platforms/android/assets/www/cordova_plugins.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/assets/www/data/data.json" afterPath="$PROJECT_DIR$/camera-android/platforms/android/assets/www/data/data.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-app/app/data/data.json" afterPath="$PROJECT_DIR$/camera-app/app/data/data.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-app/dist/data/data.json" afterPath="$PROJECT_DIR$/camera-app/dist/data/data.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/assets/www/plugins/org.apache.cordova.device/www/device.js" afterPath="$PROJECT_DIR$/camera-android/platforms/android/assets/www/plugins/org.apache.cordova.device/www/device.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-app/app/scripts/common/directives/draggable.directive.js" afterPath="$PROJECT_DIR$/camera-app/app/scripts/common/directives/draggable.directive.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-app/app/views/home/home.html" afterPath="$PROJECT_DIR$/camera-app/app/views/home/home.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-app/notes" afterPath="$PROJECT_DIR$/camera-app/notes" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/assets/www/plugins/org.apache.cordova.file/www/fileSystemPaths.js" afterPath="$PROJECT_DIR$/camera-android/platforms/android/assets/www/plugins/org.apache.cordova.file/www/fileSystemPaths.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/assets/www/plugins/org.apache.cordova.file/www/fileSystems-roots.js" afterPath="$PROJECT_DIR$/camera-android/platforms/android/assets/www/plugins/org.apache.cordova.file/www/fileSystems-roots.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/assets/www/plugins/org.apache.cordova.file/www/fileSystems.js" afterPath="$PROJECT_DIR$/camera-android/platforms/android/assets/www/plugins/org.apache.cordova.file/www/fileSystems.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-app/app/scripts/home/home.controller.js" afterPath="$PROJECT_DIR$/camera-app/app/scripts/home/home.controller.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/assets/www/views/home/home.html" afterPath="$PROJECT_DIR$/camera-android/platforms/android/assets/www/views/home/home.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-app/dist/views/home/home.html" afterPath="$PROJECT_DIR$/camera-app/dist/views/home/home.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/assets/www/index.html" afterPath="$PROJECT_DIR$/camera-android/platforms/android/assets/www/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-app/app/index.html" afterPath="$PROJECT_DIR$/camera-app/app/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-app/dist/index.html" afterPath="$PROJECT_DIR$/camera-app/dist/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/assets/www/fonts/ionicons.svg" afterPath="$PROJECT_DIR$/camera-android/platforms/android/assets/www/fonts/ionicons.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-app/dist/fonts/ionicons.svg" afterPath="$PROJECT_DIR$/camera-app/dist/fonts/ionicons.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/assets/www/plugins/com.ionic.keyboard/www/keyboard.js" afterPath="$PROJECT_DIR$/camera-android/platforms/android/assets/www/plugins/com.ionic.keyboard/www/keyboard.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/make_icon.bat" afterPath="$PROJECT_DIR$/make_icon.bat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/assets/www/plugins/com.xmartlabs.cordova.market/www/market.js" afterPath="$PROJECT_DIR$/camera-android/platforms/android/assets/www/plugins/com.xmartlabs.cordova.market/www/market.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mklink_www_dist.bat" afterPath="$PROJECT_DIR$/mklink_www_dist.bat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/assets/www/plugins/org.apache.cordova.network-information/www/network.js" afterPath="$PROJECT_DIR$/camera-android/platforms/android/assets/www/plugins/org.apache.cordova.network-information/www/network.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-app/app/scripts/common/network/network.service.js" afterPath="$PROJECT_DIR$/camera-app/app/scripts/common/network/network.service.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/assets/www/libs/ng-cordova.js" afterPath="$PROJECT_DIR$/camera-android/platforms/android/assets/www/libs/ng-cordova.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-app/app/libs/ng-cordova.js" afterPath="$PROJECT_DIR$/camera-app/app/libs/ng-cordova.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-app/dist/libs/ng-cordova.js" afterPath="$PROJECT_DIR$/camera-app/dist/libs/ng-cordova.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/assets/www/plugins/org.apache.cordova.dialogs/www/notification.js" afterPath="$PROJECT_DIR$/camera-android/platforms/android/assets/www/plugins/org.apache.cordova.dialogs/www/notification.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/assets/www/plugins/org.apache.cordova.dialogs/www/android/notification.js" afterPath="$PROJECT_DIR$/camera-android/platforms/android/assets/www/plugins/org.apache.cordova.dialogs/www/android/notification.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-app/app/scripts/common/notification/notification.service.js" afterPath="$PROJECT_DIR$/camera-app/app/scripts/common/notification/notification.service.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/assets/www/libs/owl.carousel.js" afterPath="$PROJECT_DIR$/camera-android/platforms/android/assets/www/libs/owl.carousel.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-app/dist/libs/owl.carousel.js" afterPath="$PROJECT_DIR$/camera-app/dist/libs/owl.carousel.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/assets/www/plugins/org.apache.cordova.file/www/requestFileSystem.js" afterPath="$PROJECT_DIR$/camera-android/platforms/android/assets/www/plugins/org.apache.cordova.file/www/requestFileSystem.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/assets/www/plugins/org.apache.cordova.file/www/resolveLocalFileSystemURI.js" afterPath="$PROJECT_DIR$/camera-android/platforms/android/assets/www/plugins/org.apache.cordova.file/www/resolveLocalFileSystemURI.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-app/app/scripts/common/sharing/sharing.service.js" afterPath="$PROJECT_DIR$/camera-app/app/scripts/common/sharing/sharing.service.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/res/values/strings.xml" afterPath="$PROJECT_DIR$/camera-android/platforms/android/res/values/strings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="DRAGON_CAMERA.iws" />
@@ -46,99 +284,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="git.txt" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/git.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="153">
-              <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Gruntfile.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/camera-app/Gruntfile.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="442" max-vertical-offset="9435">
-              <caret line="26" column="27" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="html2canvas.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/camera-app/app/libs/html2canvas.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="340" max-vertical-offset="48841">
-              <caret line="20" column="26" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
-              <folding>
-                <marker date="1404724152509" expanded="false" signature="80877:80896" placeholder="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="owl.carousel.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/camera-app/app/libs/owl.carousel.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="6001" max-vertical-offset="26061">
-              <caret line="353" column="39" selection-start-line="353" selection-start-column="39" selection-end-line="353" selection-end-column="39" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="draggable.directive.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="draggable.directive.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/camera-app/app/scripts/common/directives/draggable.directive.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7372709" vertical-offset="2426" max-vertical-offset="5610">
-              <caret line="164" column="44" selection-start-line="164" selection-start-column="44" selection-end-line="164" selection-end-column="44" />
-              <folding>
-                <marker date="1404745394047" expanded="false" signature="6943:7018" placeholder="..." />
-                <marker date="1404745394047" expanded="false" signature="9839:9851" placeholder="..." />
-                <marker date="1404745394047" expanded="false" signature="10776:10840" placeholder="..." />
-                <marker date="1404745394047" expanded="false" signature="10872:10906" placeholder="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="home.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/camera-app/app/views/home/home.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-10.461538" vertical-offset="0" max-vertical-offset="731">
-              <caret line="16" column="91" selection-start-line="16" selection-start-column="91" selection-end-line="16" selection-end-column="91" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#button#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#button#1;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#button#2;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#div#1;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#button#0;n#div#1;n#div#1;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#button#1;n#div#1;n#div#1;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#button#2;n#div#1;n#div#1;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#button#3;n#div#1;n#div#1;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#button#4;n#div#1;n#div#1;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#button#0;n#div#1;n#div#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="notes" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/camera-app/notes">
-          <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-17.814816" vertical-offset="420" max-vertical-offset="1258">
-              <caret line="53" column="32" selection-start-line="53" selection-start-column="32" selection-end-line="53" selection-end-column="32" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="4086" max-vertical-offset="5610">
+              <caret line="252" column="13" selection-start-line="252" selection-start-column="13" selection-end-line="252" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -147,8 +297,28 @@
       <file leaf-file-name="home.controller.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/camera-app/app/scripts/home/home.controller.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="1223" max-vertical-offset="2074">
-              <caret line="101" column="40" selection-start-line="101" selection-start-column="40" selection-end-line="101" selection-end-column="40" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="1666" max-vertical-offset="2176">
+              <caret line="98" column="32" selection-start-line="98" selection-start-column="32" selection-end-line="98" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Gruntfile.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/camera-app/Gruntfile.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="7605" max-vertical-offset="9435">
+              <caret line="454" column="10" selection-start-line="454" selection-start-column="10" selection-end-line="454" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="image.service.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/camera-app/app/scripts/common/file/image.service.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="561">
+              <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -157,8 +327,8 @@
       <file leaf-file-name="notification.service.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/camera-app/app/scripts/common/notification/notification.service.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="1241" max-vertical-offset="1802">
-              <caret line="97" column="3" selection-start-line="97" selection-start-column="3" selection-end-line="97" selection-end-column="3" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="289" max-vertical-offset="1802">
+              <caret line="30" column="31" selection-start-line="30" selection-start-column="31" selection-end-line="30" selection-end-column="31" />
               <folding />
             </state>
           </provider>
@@ -167,28 +337,48 @@
       <file leaf-file-name="sharing.service.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/camera-app/app/scripts/common/sharing/sharing.service.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="442">
-              <caret line="0" column="135" selection-start-line="0" selection-start-column="135" selection-end-line="0" selection-end-column="135" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="17" max-vertical-offset="476">
+              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/camera-app/app/scripts/app.js">
+      <file leaf-file-name="scripts.ef7d7141.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/camera-android/platforms/android/assets/www/scripts/scripts.ef7d7141.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="612" max-vertical-offset="918">
-              <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="102">
+              <caret line="0" column="14245" selection-start-line="0" selection-start-column="14245" selection-end-line="0" selection-end-column="14245" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
+      <file leaf-file-name="camera.service.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/camera-app/app/scripts/common/picture/camera.service.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="255">
-              <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="1037">
+              <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ant.properties" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ant.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="153">
+              <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="data.json" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/camera-app/app/data/data.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.1017964" vertical-offset="0" max-vertical-offset="952">
+              <caret line="2" column="56" selection-start-line="2" selection-start-column="56" selection-end-line="2" selection-end-column="56" />
               <folding />
             </state>
           </provider>
@@ -209,17 +399,25 @@
       <list>
         <option value="$PROJECT_DIR$/git.txt" />
         <option value="$PROJECT_DIR$/camera-app/app/libs/owl.carousel.js" />
-        <option value="$PROJECT_DIR$/camera-app/app/scripts/common/sharing/sharing.service.js" />
-        <option value="$PROJECT_DIR$/camera-app/app/scripts/common/notification/notification.service.js" />
-        <option value="$PROJECT_DIR$/camera-app/app/scripts/common/picture/camera.service.js" />
         <option value="localhost:9001/scripts/app.js" />
-        <option value="$PROJECT_DIR$/camera-app/app/scripts/app.js" />
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/camera-app/app/scripts/home/home.controller.js" />
         <option value="$PROJECT_DIR$/camera-app/notes" />
-        <option value="$PROJECT_DIR$/camera-app/app/data/data.json" />
         <option value="$PROJECT_DIR$/camera-app/app/views/home/home.html" />
+        <option value="$PROJECT_DIR$/camera-android/platforms/android/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/camera-app/app/scripts/common/notification/notification.service.js" />
+        <option value="$PROJECT_DIR$/camera-app/app/libs/ng-cordova.js" />
+        <option value="$PROJECT_DIR$/camera-android/platforms/android/assets/www/plugins/com.xmartlabs.cordova.market/www/market.js" />
+        <option value="$PROJECT_DIR$/camera-app/app/scripts/common/network/network.service.js" />
+        <option value="$PROJECT_DIR$/camera-app/app/index.html" />
+        <option value="$PROJECT_DIR$/camera-app/app/scripts/app.js" />
+        <option value="$PROJECT_DIR$/camera-app/Gruntfile.js" />
+        <option value="$PROJECT_DIR$/camera-app/app/styles/ionic.css" />
         <option value="$PROJECT_DIR$/camera-app/app/scripts/common/directives/draggable.directive.js" />
+        <option value="$PROJECT_DIR$/camera-app/app/scripts/common/sharing/sharing.service.js" />
+        <option value="$PROJECT_DIR$/camera-android/platforms/android/assets/www/scripts/scripts.ef7d7141.js" />
+        <option value="$PROJECT_DIR$/camera-app/app/scripts/home/home.controller.js" />
+        <option value="$PROJECT_DIR$/camera-app/app/scripts/common/picture/camera.service.js" />
+        <option value="$PROJECT_DIR$/camera-app/app/data/data.json" />
       </list>
     </option>
   </component>
@@ -397,8 +595,10 @@
     <initial>false</initial>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="width" value="1680" />
-    <option name="height" value="1010" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -412,6 +612,12 @@
   </component>
   <component name="ProjectReloadState">
     <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectStructureProblems">
+    <ignored-problems>
+      <problem id="invalid-module-dependency(module:camera-app,&lt; 1.6 &gt;)" />
+      <problem id="invalid-module-dependency(module:camera-app,sass-stdlib)" />
+    </ignored-problems>
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -427,6 +633,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -473,101 +680,12 @@
               <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="home" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DRAGON_CAMERA" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="camera-app" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scripts" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DRAGON_CAMERA" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="camera-app" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scripts" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="common" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DRAGON_CAMERA" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="camera-app" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scripts" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="common" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="directives" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DRAGON_CAMERA" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="camera-app" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="data" />
               <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -579,17 +697,19 @@
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="recentsLimit" value="5" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/camera-app/app" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/camera-android/platforms/android" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="restartRequiresConfirmation" value="false" />
+    <property name="options.lastSelected" value="preferences.pluginManager" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="FullScreen" value="false" />
   </component>
-  <component name="RunManager" selected="JavaScript Debug.Unnamed">
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
-      <module name="" />
-      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
-      <option name="PROGRAM_PARAMETERS" />
+  <component name="RunManager" selected="OpenShift Deployment.Unnamed">
+    <configuration default="true" type="openshift-deploy" factoryName="OpenShift Deployment">
       <method />
     </configuration>
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
@@ -694,12 +814,12 @@
       <method />
     </configuration>
     <configuration default="false" name="android" type="AndroidRunConfigurationType" factoryName="Android Application">
-      <module name="android" />
+      <module name="" />
       <option name="ACTIVITY_CLASS" value="" />
       <option name="MODE" value="default_activity" />
       <option name="DEPLOY" value="true" />
       <option name="ARTIFACT_NAME" value="" />
-      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="TARGET_SELECTION_MODE" value="USB_DEVICE" />
       <option name="USE_LAST_SELECTED_DEVICE" value="false" />
       <option name="PREFERRED_AVD" value="" />
       <option name="USE_COMMAND_LINE" value="true" />
@@ -708,9 +828,11 @@
       <option name="DISABLE_BOOT_ANIMATION" value="false" />
       <option name="NETWORK_SPEED" value="full" />
       <option name="NETWORK_LATENCY" value="none" />
-      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="CLEAR_LOGCAT" value="true" />
       <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
       <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <RunnerSettings RunnerId="AndroidDebugRunner" />
+      <ConfigurationWrapper RunnerId="AndroidDebugRunner" />
       <method />
     </configuration>
     <configuration default="false" name="Unnamed" type="JavascriptDebugType" factoryName="JavaScript Debug" uri="http://localhost:9001">
@@ -718,9 +840,19 @@
       <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
       <method />
     </configuration>
-    <list size="2">
+    <configuration default="false" name="Unnamed" type="openshift-deploy" factoryName="OpenShift Deployment" server-name="OpenShift">
+      <deployment type="module" name="camera-app">
+        <settings>
+          <option name="defaultDeploymentName" value="false" />
+          <option name="deploymentName" value="app-kaczkowskim" />
+        </settings>
+      </deployment>
+      <method />
+    </configuration>
+    <list size="3">
       <item index="0" class="java.lang.String" itemvalue="Android Application.android" />
       <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.Unnamed" />
+      <item index="2" class="java.lang.String" itemvalue="OpenShift Deployment.Unnamed" />
     </list>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
       <Host>localhost</Host>
@@ -763,38 +895,38 @@
     <option name="totallyTimeSpent" value="9280000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1680" height="1010" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32992035" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="IntelliTail" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32952693" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32992035" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3993174" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.7161501" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Grunt" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32992035" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Grunt" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.79934746" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32469136" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32952693" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3245083" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="IntelliTail" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32992035" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32952693" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32952693" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5807504" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -823,151 +955,16 @@
       <option name="time" value="4" />
     </breakpoint-manager>
   </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/git.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="153">
-          <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/camera-app/Gruntfile.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="442" max-vertical-offset="9435">
-          <caret line="26" column="27" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/camera-app/app/libs/html2canvas.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="340" max-vertical-offset="48841">
-          <caret line="20" column="26" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
-          <folding>
-            <marker date="1404724152509" expanded="false" signature="80877:80896" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/camera-app/app/libs/owl.carousel.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="6001" max-vertical-offset="26061">
-          <caret line="353" column="39" selection-start-line="353" selection-start-column="39" selection-end-line="353" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/camera-app/app/views/home/home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="272" max-vertical-offset="731">
-          <caret line="16" column="91" selection-start-line="16" selection-start-column="91" selection-end-line="16" selection-end-column="91" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#button#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#button#1;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#button#2;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#1;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#button#0;n#div#1;n#div#1;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#button#1;n#div#1;n#div#1;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#button#2;n#div#1;n#div#1;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#button#3;n#div#1;n#div#1;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#button#4;n#div#1;n#div#1;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#button#0;n#div#1;n#div#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/camera-app/app/data/data.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1844" max-vertical-offset="2414">
-          <caret line="107" column="9" selection-start-line="107" selection-start-column="9" selection-end-line="107" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/camera-app/app/scripts/common/notification/notification.service.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1241" max-vertical-offset="1802">
-          <caret line="97" column="3" selection-start-line="97" selection-start-column="3" selection-end-line="97" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/camera-app/app/scripts/common/sharing/sharing.service.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="442">
-          <caret line="0" column="135" selection-start-line="0" selection-start-column="135" selection-end-line="0" selection-end-column="135" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/camera-app/app/scripts/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="612" max-vertical-offset="918">
-          <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="255">
-          <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/git.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="153">
-          <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/camera-app/Gruntfile.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="442" max-vertical-offset="9435">
-          <caret line="26" column="27" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/camera-app/app/libs/html2canvas.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="340" max-vertical-offset="48841">
-          <caret line="20" column="26" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
-          <folding>
-            <marker date="1404724152509" expanded="false" signature="80877:80896" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/camera-app/app/libs/owl.carousel.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="6001" max-vertical-offset="26061">
-          <caret line="353" column="39" selection-start-line="353" selection-start-column="39" selection-end-line="353" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/camera-app/app/scripts/common/directives/draggable.directive.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="4238" max-vertical-offset="5474">
           <caret line="261" column="17" selection-start-line="261" selection-start-column="17" selection-end-line="261" selection-end-column="17" />
-          <folding>
-            <marker date="1404745394047" expanded="false" signature="6943:7018" placeholder="..." />
-            <marker date="1404745394047" expanded="false" signature="9839:9851" placeholder="..." />
-            <marker date="1404745394047" expanded="false" signature="10776:10840" placeholder="..." />
-            <marker date="1404745394047" expanded="false" signature="10872:10906" placeholder="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1007,7 +1004,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="255">
           <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1015,15 +1011,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="153">
           <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/camera-app/Gruntfile.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="9435">
-          <caret line="26" column="27" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1031,9 +1018,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="73" max-vertical-offset="48756">
           <caret line="20" column="26" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
-          <folding>
-            <marker date="1404724152509" expanded="false" signature="80877:80896" placeholder="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1041,23 +1025,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="5547" max-vertical-offset="25925">
           <caret line="353" column="39" selection-start-line="353" selection-start-column="39" selection-end-line="353" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/camera-app/app/scripts/common/sharing/sharing.service.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="561">
-          <caret line="0" column="135" selection-start-line="0" selection-start-column="135" selection-end-line="0" selection-end-column="135" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/camera-app/app/scripts/common/notification/notification.service.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1241" max-vertical-offset="1802">
-          <caret line="97" column="3" selection-start-line="97" selection-start-column="3" selection-end-line="97" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1066,19 +1033,10 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/camera-app/app/scripts/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="918">
-          <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="255">
           <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1093,81 +1051,280 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.6119096" vertical-offset="174139" max-vertical-offset="391204">
           <caret line="10261" column="8" selection-start-line="10261" selection-start-column="8" selection-end-line="10261" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/camera-app/app/scripts/common/picture/camera.service.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.366" vertical-offset="191" max-vertical-offset="1003">
-          <caret line="22" column="48" selection-start-line="22" selection-start-column="48" selection-end-line="22" selection-end-column="48" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/camera-app/app/data/data.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.46424243" vertical-offset="1674" max-vertical-offset="2618">
-          <caret line="121" column="30" selection-start-line="121" selection-start-column="30" selection-end-line="121" selection-end-column="30" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/camera-app/notes">
-      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="420" max-vertical-offset="1258">
+          <caret line="53" column="32" selection-start-line="53" selection-start-column="32" selection-end-line="53" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/camera-app/app/data/background.jpg">
+      <provider selected="true" editor-type-id="images">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/camera-android/platforms/android/platform_www/cordova.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-17.814816" vertical-offset="420" max-vertical-offset="1258">
-          <caret line="53" column="32" selection-start-line="53" selection-start-column="32" selection-end-line="53" selection-end-column="32" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="32028">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/camera-android/platforms/android/res/drawable/icon.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/camera-android/platforms/android/res/drawable-hdpi/icon.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/camera-android/platforms/android/res/drawable-ldpi/icon.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/camera-android/platforms/android/res/drawable-mdpi/icon.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/camera-android/platforms/android/res/drawable-xhdpi/icon.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/camera-android/platforms/android/res/xml/config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1122">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/camera-android/platforms/android/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="360">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/camera-android/platforms/android/ant-build/AndroidManifest.xml.d">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="360">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/camera-android/platforms/android/ant-build/AndroidManifest.cordova.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="391">
+          <caret line="1" column="62" selection-start-line="1" selection-start-column="62" selection-end-line="1" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/camera-android/platforms/android/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="374">
+          <caret line="13" column="71" selection-start-line="13" selection-start-column="71" selection-end-line="13" selection-end-column="71" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/camera-android/platforms/android/src/org/apache/cordova/camera/FileHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1486014" vertical-offset="0" max-vertical-offset="2329">
+          <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/camera-android/platforms/android/src/org/apache/cordova/camera/CameraLauncher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4755245" vertical-offset="102" max-vertical-offset="16507">
+          <caret line="39" column="31" selection-start-line="39" selection-start-column="31" selection-end-line="39" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/camera-app/app/scripts/config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.26153848" vertical-offset="0" max-vertical-offset="585">
+          <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/camera-android/platforms/android/assets/www/plugins/nl.x-services.plugins.socialsharing/www/SocialSharing.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.25" vertical-offset="180" max-vertical-offset="1666">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/camera-app/app/libs/ng-cordova.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="9520">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/camera-android/platforms/android/assets/www/libs/CameraConstants.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="646">
+          <caret line="0" column="4" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/camera-android/platforms/android/assets/www/plugins/org.apache.cordova.dialogs/www/notification.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2006">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/camera-android/platforms/android/assets/www/plugins/com.xmartlabs.cordova.market/www/market.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="391">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/camera-android/platforms/android/assets/www/cordova_plugins.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="56" max-vertical-offset="4590">
+          <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/camera-app/app/views/home/home.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-10.461538" vertical-offset="0" max-vertical-offset="731">
-          <caret line="16" column="91" selection-start-line="16" selection-start-column="91" selection-end-line="16" selection-end-column="91" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#button#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#button#1;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#button#2;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#1;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#button#0;n#div#1;n#div#1;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#button#1;n#div#1;n#div#1;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#button#2;n#div#1;n#div#1;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#button#3;n#div#1;n#div#1;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#button#4;n#div#1;n#div#1;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#button#0;n#div#1;n#div#0;n#!!top" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="-8.615385" vertical-offset="82" max-vertical-offset="731">
+          <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/camera-app/app/scripts/home/home.controller.js">
+    <entry file="file://$PROJECT_DIR$/camera-app/app/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1223" max-vertical-offset="2074">
-          <caret line="101" column="40" selection-start-line="101" selection-start-column="40" selection-end-line="101" selection-end-column="40" />
+        <state vertical-scroll-proportion="-9.269231" vertical-offset="184" max-vertical-offset="2057">
+          <caret line="25" column="6" selection-start-line="25" selection-start-column="6" selection-end-line="25" selection-end-column="6" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/camera-app/app/scripts/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="214" max-vertical-offset="799">
+          <caret line="22" column="35" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/camera-app/app/scripts/common/network/network.service.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="340">
+          <caret line="5" column="42" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/camera-app/dist/data/background.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/camera-app/app/scripts/common/file/image.service.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="561">
+          <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/camera-app/app/styles/ionic.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4335155" vertical-offset="2125" max-vertical-offset="106658">
+          <caret line="139" column="22" selection-start-line="139" selection-start-column="22" selection-end-line="139" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/camera-app/app/scripts/common/directives/draggable.directive.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7372709" vertical-offset="2426" max-vertical-offset="5610">
-          <caret line="164" column="44" selection-start-line="164" selection-start-column="44" selection-end-line="164" selection-end-column="44" />
-          <folding>
-            <marker date="1404745394047" expanded="false" signature="6943:7018" placeholder="..." />
-            <marker date="1404745394047" expanded="false" signature="9839:9851" placeholder="..." />
-            <marker date="1404745394047" expanded="false" signature="10776:10840" placeholder="..." />
-            <marker date="1404745394047" expanded="false" signature="10872:10906" placeholder="..." />
-          </folding>
+        <state vertical-scroll-proportion="0.0" vertical-offset="4086" max-vertical-offset="5610">
+          <caret line="252" column="13" selection-start-line="252" selection-start-column="13" selection-end-line="252" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/camera-app/Gruntfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="7605" max-vertical-offset="9435">
+          <caret line="454" column="10" selection-start-line="454" selection-start-column="10" selection-end-line="454" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/camera-app/app/scripts/common/notification/notification.service.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="289" max-vertical-offset="1802">
+          <caret line="30" column="31" selection-start-line="30" selection-start-column="31" selection-end-line="30" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/camera-app/app/scripts/common/sharing/sharing.service.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="476">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/camera-android/platforms/android/assets/www/scripts/scripts.ef7d7141.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="102">
+          <caret line="0" column="14245" selection-start-line="0" selection-start-column="14245" selection-end-line="0" selection-end-column="14245" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/camera-app/app/scripts/home/home.controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1478" max-vertical-offset="2176">
+          <caret line="98" column="32" selection-start-line="98" selection-start-column="32" selection-end-line="98" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/camera-app/app/scripts/common/picture/camera.service.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1037">
+          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ant.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="153">
+          <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/camera-app/app/data/data.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1017964" vertical-offset="0" max-vertical-offset="952">
+          <caret line="2" column="56" selection-start-line="2" selection-start-column="56" selection-end-line="2" selection-end-column="56" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1212,7 +1369,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>1.6</last-edited>
+          <last-edited>1.7</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1224,12 +1381,11 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>camera-app</last-edited>
+          <last-edited>Android|android</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>

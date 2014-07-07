@@ -454,17 +454,17 @@ module.exports = function (grunt) {
 			}
 		},
 
-		concat:
+		/*concat:
 		{ contact:
 		{ files:
 				[ { dest: '.tmp/concat/scripts/contact.all.js',
-					src: [ '<%= yeoman.app %>/scripts/contact/*' ] }
+					src: [ '<%= yeoman.app %>/scripts/contact*//*' ] }
 				] } },
 
 		uglify:
 		{ contact: { dest: 'dist/scripts/contact.all.js',
 			src: [ '.tmp/concat/scripts/contact.all.js' ]
-		}}
+		}}*/
 	});
 
 	grunt.registerTask('serve', 'Compile then start a connect web server', function (target) {

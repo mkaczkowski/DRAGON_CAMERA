@@ -343,9 +343,9 @@ if (typeof Object.create !== "function") {
         calculateWidth : function () {
             var base = this;
             base.itemWidth = Math.round(base.$elem.width() / 4);
-			console.info("base.itemWidth1:"+base.$elem.width());
-			console.info("base.itemWidth2:"+4)
-			console.info("base.itemWidth3:"+base.itemWidth)
+//			console.info("base.itemWidth1:"+base.$elem.width());
+//			console.info("base.itemWidth2:"+4)
+//			console.info("base.itemWidth3:"+base.itemWidth)
         },
 
         max : function () {

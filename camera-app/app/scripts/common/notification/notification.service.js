@@ -24,7 +24,7 @@ angular.module('sioWebApp.common').factory('notificationService', function($cord
     notificationService.savedConfirm =function(path, handler1) {
         return $ionicPopup.showPopup(
             {
-                title: 'Picture has beed saved!\npath',
+                title: 'Picture has beed saved!<br>'+path,
                 content:'',
                 buttons: [
                     {

@@ -22,13 +22,6 @@ sioWebApp.controller('AppCtrl', function ($scope,networkService, configuration) 
     $scope.rateUs = function(){
         networkService.openMarketURL(configuration.marketUrl)
     };
-	$scope.rateUs2 = function(){
-		networkService.openMarketURL2(configuration.marketUrl)
-	};
-	$scope.rateUs3 = function(){
-		networkService.openMarketURL3(configuration.marketUrl)
-	};
-
 });
 
 sioWebApp.run(function($rootScope,configuration) {

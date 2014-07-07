@@ -373,9 +373,9 @@ angular.module('ngCordova.plugins.socialSharing', [])
 
         return {
 
-			shareImage: function (image) {
+			shareImage: function (msg, subject, image, link) {
 				var q = $q.defer();
-				window.plugins.socialsharing.share(null,null, image, null,
+				window.plugins.socialsharing.share(msg,subject, image, link,
 						function () {
 							q.resolve(true); // success
 						},

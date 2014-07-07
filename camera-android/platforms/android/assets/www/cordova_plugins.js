@@ -1,13 +1,6 @@
 cordova.define('cordova/plugin_list', function(require, exports, module) {
 module.exports = [
     {
-        "file": "plugins/ca.purplemad.wallpaper/www/wallpaper.js",
-        "id": "ca.purplemad.wallpaper.Wallpaper",
-        "clobbers": [
-            "window.wallpaper"
-        ]
-    },
-    {
         "file": "plugins/com.ionic.keyboard/www/keyboard.js",
         "id": "com.ionic.keyboard.keyboard",
         "clobbers": [
@@ -249,7 +242,6 @@ module.exports = [
 module.exports.metadata = 
 // TOP OF METADATA
 {
-    "ca.purplemad.wallpaper": "0.2.0",
     "com.ionic.keyboard": "1.0.2",
     "com.xmartlabs.cordova.market": "1.0",
     "nl.x-services.plugins.socialsharing": "4.3.1",
