@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/camera-android/platforms/android/android.iml" filepath="$PROJECT_DIR$/camera-android/platforms/android/android.iml" />
       <module fileurl="file://$PROJECT_DIR$/camera-app/camera-app.iml" filepath="$PROJECT_DIR$/camera-app/camera-app.iml" />
+      <module fileurl="file://C:/adt-bundle-windows-x86_64-20140624/sdk/extras/google/google_play_services/libproject/google-play-services_lib/google-play-services_lib.iml" filepath="C:/adt-bundle-windows-x86_64-20140624/sdk/extras/google/google_play_services/libproject/google-play-services_lib/google-play-services_lib.iml" />
     </modules>
   </component>
 </project>

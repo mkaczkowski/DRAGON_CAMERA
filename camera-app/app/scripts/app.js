@@ -24,7 +24,7 @@ sioWebApp.controller('AppCtrl', function ($scope,networkService, configuration) 
     };
 });
 
-sioWebApp.run(function($rootScope,configuration,$ionicPlatform,$timeout,admobService) {
+sioWebApp.run(function($rootScope,configuration,$ionicPlatform,$timeout,logger,admobService) {
 
 	var LOG = logger.getInstance('sioWebApp');
 
@@ -32,6 +32,7 @@ sioWebApp.run(function($rootScope,configuration,$ionicPlatform,$timeout,admobSer
 
 	$ionicPlatform.ready(function() {
 		LOG.info("$ionicPlatform - ready");
+		admobService.init();
 		admobService.createBanner();
 		$timeout(function(){
 			admobService.createInterstitial();

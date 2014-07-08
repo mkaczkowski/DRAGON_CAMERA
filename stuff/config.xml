@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.dragon.app2" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>Dragon Camera2</name>
+<widget id="com.dragon.camera1" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>Dragon Camera1</name>
     <description>
-        Dragon Camera2
+        Dragon Camera1
     </description>
-    <author email="dragon@camera2.com" href="http://dragoncamera2.com/">
-      Dragon Camera2 Team
+    <author email="dragon@camera1.com" href="http://dragoncamera1.com/">
+      Dragon Camera1 Team
     </author>
     <content src="index.html" />
     <access origin="*" />

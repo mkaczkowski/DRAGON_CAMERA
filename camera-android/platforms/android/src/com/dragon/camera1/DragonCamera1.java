@@ -17,12 +17,12 @@
        under the License.
  */
 
-package com.dragon.app2;
+package com.dragon.camera1;
 
 import android.os.Bundle;
 import org.apache.cordova.*;
 
-public class DragonCamera2 extends CordovaActivity 
+public class DragonCamera1 extends CordovaActivity 
 {
     @Override
     public void onCreate(Bundle savedInstanceState)
