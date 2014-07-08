@@ -244,6 +244,13 @@ module.exports = [
         "clobbers": [
             "window.canvas2ImagePlugin"
         ]
+    },
+    {
+        "file": "plugins/com.rjfun.cordova.plugin.admob/www/AdMob.js",
+        "id": "com.rjfun.cordova.plugin.admob.AdMob",
+        "clobbers": [
+            "window.plugins.AdMob"
+        ]
     }
 ];
 module.exports.metadata = 
@@ -259,7 +266,9 @@ module.exports.metadata =
     "org.apache.cordova.dialogs": "0.2.8",
     "org.apache.cordova.file": "1.2.0",
     "org.apache.cordova.network-information": "0.2.10",
-    "org.devgeeks.Canvas2ImagePlugin": "0.6.0"
+    "org.devgeeks.Canvas2ImagePlugin": "0.6.0",
+    "com.google.playservices": "17.0.0",
+    "com.rjfun.cordova.plugin.admob": "1.1.0"
 }
 // BOTTOM OF METADATA
 });
