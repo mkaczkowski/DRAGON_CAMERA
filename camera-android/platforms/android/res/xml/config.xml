@@ -9,6 +9,9 @@
         <param name="android-package" value="com.ionic.keyboard.IonicKeyboard" />
         <param name="onload" value="true" />
     </feature>
+    <feature name="AdMob">
+        <param name="android-package" value="com.rjfun.cordova.plugin.AdMob" />
+    </feature>
     <feature name="Market">
         <param name="android-package" value="com.xmartlabs.cordova.market.Market" />
     </feature>
@@ -33,9 +36,6 @@
     </feature>
     <feature name="Canvas2ImagePlugin">
         <param name="android-package" value="org.devgeeks.Canvas2ImagePlugin.Canvas2ImagePlugin" />
-    </feature>
-    <feature name="AdMob">
-        <param name="android-package" value="com.rjfun.cordova.plugin.AdMob" />
     </feature>
     <name>Dragon Camera1</name>
     <description>

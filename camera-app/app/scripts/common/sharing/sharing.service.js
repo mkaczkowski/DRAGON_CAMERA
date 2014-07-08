@@ -47,7 +47,7 @@ angular.module('sioWebApp.common').factory('admobService', function(configuratio
 					'publisherId': configuration.admobBannerKey,
 					'adSize': am.AD_SIZE.BANNER,//SMART_BANNER
 					'bannerAtTop': false,
-					'overlap': false
+					'overlap': true
 				},
 				function() {
 					am.requestAd(

@@ -8,6 +8,13 @@ module.exports = [
         ]
     },
     {
+        "file": "plugins/com.rjfun.cordova.plugin.admob/www/AdMob.js",
+        "id": "com.rjfun.cordova.plugin.admob.AdMob",
+        "clobbers": [
+            "window.plugins.AdMob"
+        ]
+    },
+    {
         "file": "plugins/com.xmartlabs.cordova.market/www/market.js",
         "id": "com.xmartlabs.cordova.market.Market",
         "clobbers": [
@@ -237,19 +244,14 @@ module.exports = [
         "clobbers": [
             "window.canvas2ImagePlugin"
         ]
-    },
-    {
-        "file": "plugins/com.rjfun.cordova.plugin.admob/www/AdMob.js",
-        "id": "com.rjfun.cordova.plugin.admob.AdMob",
-        "clobbers": [
-            "window.plugins.AdMob"
-        ]
     }
 ];
 module.exports.metadata = 
 // TOP OF METADATA
 {
+    "com.google.playservices": "17.0.0",
     "com.ionic.keyboard": "1.0.2",
+    "com.rjfun.cordova.plugin.admob": "1.1.0",
     "com.xmartlabs.cordova.market": "1.0",
     "nl.x-services.plugins.socialsharing": "4.3.1",
     "org.apache.cordova.camera": "0.3.0",
@@ -258,9 +260,7 @@ module.exports.metadata =
     "org.apache.cordova.dialogs": "0.2.8",
     "org.apache.cordova.file": "1.2.0",
     "org.apache.cordova.network-information": "0.2.10",
-    "org.devgeeks.Canvas2ImagePlugin": "0.6.0",
-    "com.google.playservices": "17.0.0",
-    "com.rjfun.cordova.plugin.admob": "1.1.0"
+    "org.devgeeks.Canvas2ImagePlugin": "0.6.0"
 }
 // BOTTOM OF METADATA
 });

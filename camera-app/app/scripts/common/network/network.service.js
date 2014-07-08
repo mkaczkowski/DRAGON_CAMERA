@@ -4,6 +4,9 @@ angular.module('sioWebApp.common').factory('networkService', function($cordovaNe
     //var type = $cordovaNetwork.getNetwork();
 
     networkService.isOnline = function() {
+        if(!navigator || !navigator.connection){
+            return false;
+        }
         return $cordovaNetwork.isOnline();
     };
 

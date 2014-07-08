@@ -24,19 +24,25 @@ sioWebApp.controller('AppCtrl', function ($scope,networkService, configuration) 
     };
 });
 
-sioWebApp.run(function($rootScope,configuration,$ionicPlatform,$timeout,logger,admobService) {
+sioWebApp.run(function($rootScope,configuration,$ionicPlatform,$timeout,logger,admobService,networkService,notificationService) {
 
 	var LOG = logger.getInstance('sioWebApp');
 
     $rootScope.app = configuration;
 
 	$ionicPlatform.ready(function() {
-		LOG.info("$ionicPlatform - ready");
-		admobService.init();
-		admobService.createBanner();
-		$timeout(function(){
-			admobService.createInterstitial();
-		},1000)
+
+        LOG.info("$ionicPlatform - ready");
+        if(networkService.isOnline()){
+//            notificationService.showInfo("online");
+            admobService.init();
+            admobService.createBanner();
+            $timeout(function(){
+                admobService.createInterstitial();
+            },1000)
+        }else{
+//            notificationService.showInfo("offline");
+        }
 	});
 
     /*var LOG = logger.getInstance('sioWebApp');
