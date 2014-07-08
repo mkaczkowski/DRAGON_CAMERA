@@ -1,1 +1,3 @@
-mklink /d www C:\WORKSPACE\DRAGON_CAMERA\camera-app\dist
+cd camera-android
+mklink /d www ..\camera-app\dist
+cd ..

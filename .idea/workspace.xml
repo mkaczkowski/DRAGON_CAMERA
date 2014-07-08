@@ -2,7 +2,208 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="08aaa4f5-c55f-4827-b987-8be40e15e954" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/Dragon-Ball-psd4723.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/Lomo-Camera-iOS-7-Flat-Icon.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-app/app/data/images/aura2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-app/app/_data/images/beam0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-app/app/data/images/beam0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-app/app/_data/images/beam12.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-app/app/data/images/beam12.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-app/app/_data/images/beam13.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-app/app/data/images/beam13.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-app/app/_data/images/beam14.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-app/app/data/images/beam14.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-app/app/_data/images/beam15.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-app/app/data/images/beam15.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-app/app/_data/images/beam16.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-app/app/data/images/beam16.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-app/app/_data/images/beam17.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-app/app/data/images/beam17.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-app/app/_data/images/beam18.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-app/app/data/images/beam18.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-app/app/_data/images/beam19.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-app/app/data/images/beam19.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-app/app/_data/images/beam20.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-app/app/data/images/beam20.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-app/app/data/images/boom1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/camera-580142-packard-bell-easy-note-ts-ents11hr-2334g64mnkk-lx-bwu02-061.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/camera-lens-icon (1).jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/camera-lens-icon.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/camera_lens_311460.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-app/app/data/images/hair10.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-app/app/data/images/hair11.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-app/app/data/images/hair12.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-app/app/data/images/hair13.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-app/app/data/images/hair14.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-app/app/data/images/hair7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-app/app/data/images/hair8.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-app/app/data/images/hair9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stuff/icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/icon_net.pdn" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-app/app/_data/images/zoom1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-app/app/_data/images/zoom2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-app/app/_data/images/zoom4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-app/app/_data/images/zoom6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stuff/config.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/copy_config_xml.bat" />
+      <change type="DELETED" beforePath="C:\WORKSPACE\DRAGON_CAMERA\camera-android\platforms\android\ant-gen\R.java.d" afterPath="" />
+      <change type="DELETED" beforePath="C:\WORKSPACE\DRAGON_CAMERA\camera-android\platforms\android\ant-gen\com\dragon\app2\BuildConfig.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\WORKSPACE\DRAGON_CAMERA\camera-android\platforms\android\ant-gen\com\dragon\app2\R.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\WORKSPACE\DRAGON_CAMERA\camera-android\platforms\android\assets\_where-is-www.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\WORKSPACE\DRAGON_CAMERA\camera-android\platforms\android\assets\www\404.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\WORKSPACE\DRAGON_CAMERA\camera-android\platforms\android\assets\www\data\images\boom2.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WORKSPACE\DRAGON_CAMERA\camera-android\platforms\android\assets\www\favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="C:\WORKSPACE\DRAGON_CAMERA\camera-android\platforms\android\assets\www\images\thumbs\owl1.bb8d73d4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\WORKSPACE\DRAGON_CAMERA\camera-android\platforms\android\assets\www\images\thumbs\owl2.480586fa.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\WORKSPACE\DRAGON_CAMERA\camera-android\platforms\android\assets\www\images\thumbs\owl3.2d4966ad.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\WORKSPACE\DRAGON_CAMERA\camera-android\platforms\android\assets\www\images\thumbs\owl4.8d2e4ba2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\WORKSPACE\DRAGON_CAMERA\camera-android\platforms\android\assets\www\images\thumbs\owl5.aea5074c.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\WORKSPACE\DRAGON_CAMERA\camera-android\platforms\android\assets\www\images\thumbs\owl6.94e16430.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\WORKSPACE\DRAGON_CAMERA\camera-android\platforms\android\assets\www\images\thumbs\owl7.7eea0fc4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\WORKSPACE\DRAGON_CAMERA\camera-android\platforms\android\assets\www\images\thumbs\owl8.b171024a.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\WORKSPACE\DRAGON_CAMERA\camera-android\platforms\android\assets\www\plugins\ca.purplemad.wallpaper\www\wallpaper.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\WORKSPACE\DRAGON_CAMERA\camera-android\platforms\android\assets\www\robots.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\WORKSPACE\DRAGON_CAMERA\camera-android\platforms\android\assets\www\scripts\contact.all.d41d8cd9.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\WORKSPACE\DRAGON_CAMERA\camera-android\platforms\android\assets\www\scripts\scripts.207ff1d5.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\WORKSPACE\DRAGON_CAMERA\camera-android\platforms\android\gen\R.java.d" afterPath="" />
+      <change type="DELETED" beforePath="C:\WORKSPACE\DRAGON_CAMERA\camera-android\plugins\ca.purplemad.wallpaper\.fetch.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\WORKSPACE\DRAGON_CAMERA\camera-android\plugins\ca.purplemad.wallpaper\LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="C:\WORKSPACE\DRAGON_CAMERA\camera-android\plugins\ca.purplemad.wallpaper\README.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\WORKSPACE\DRAGON_CAMERA\camera-android\plugins\ca.purplemad.wallpaper\plugin.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\WORKSPACE\DRAGON_CAMERA\camera-android\plugins\ca.purplemad.wallpaper\src\android\Wallpaper.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\WORKSPACE\DRAGON_CAMERA\camera-android\plugins\ca.purplemad.wallpaper\src\ca.purplemad.wallpaper.iml" afterPath="" />
+      <change type="DELETED" beforePath="C:\WORKSPACE\DRAGON_CAMERA\camera-android\plugins\ca.purplemad.wallpaper\www\wallpaper.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\WORKSPACE\DRAGON_CAMERA\camera-app\_others\_data\images\boom2.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WORKSPACE\DRAGON_CAMERA\camera-app\app\.buildignore" afterPath="" />
+      <change type="DELETED" beforePath="C:\WORKSPACE\DRAGON_CAMERA\camera-app\app\.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="C:\WORKSPACE\DRAGON_CAMERA\camera-app\app\404.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\WORKSPACE\DRAGON_CAMERA\camera-app\app\data\images\boom2.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WORKSPACE\DRAGON_CAMERA\camera-app\app\favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="C:\WORKSPACE\DRAGON_CAMERA\camera-app\app\robots.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\WORKSPACE\DRAGON_CAMERA\camera-app\dist\.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="C:\WORKSPACE\DRAGON_CAMERA\camera-app\dist\404.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\WORKSPACE\DRAGON_CAMERA\camera-app\dist\data\images\boom2.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\WORKSPACE\DRAGON_CAMERA\camera-app\dist\favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="C:\WORKSPACE\DRAGON_CAMERA\camera-app\dist\images\thumbs\owl1.bb8d73d4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\WORKSPACE\DRAGON_CAMERA\camera-app\dist\images\thumbs\owl2.480586fa.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\WORKSPACE\DRAGON_CAMERA\camera-app\dist\images\thumbs\owl3.2d4966ad.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\WORKSPACE\DRAGON_CAMERA\camera-app\dist\images\thumbs\owl4.8d2e4ba2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\WORKSPACE\DRAGON_CAMERA\camera-app\dist\images\thumbs\owl5.aea5074c.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\WORKSPACE\DRAGON_CAMERA\camera-app\dist\images\thumbs\owl6.94e16430.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\WORKSPACE\DRAGON_CAMERA\camera-app\dist\images\thumbs\owl7.7eea0fc4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\WORKSPACE\DRAGON_CAMERA\camera-app\dist\images\thumbs\owl8.b171024a.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\WORKSPACE\DRAGON_CAMERA\camera-app\dist\robots.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\WORKSPACE\DRAGON_CAMERA\camera-app\dist\scripts\contact.all.d41d8cd9.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\WORKSPACE\DRAGON_CAMERA\camera-app\dist\scripts\scripts.207ff1d5.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/com/squareup/okhttp/Address.class" afterPath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/com/squareup/okhttp/Address.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/org/apache/cordova/App.class" afterPath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/org/apache/cordova/App.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/com/squareup/okhttp/ConnectionPool$1.class" afterPath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/com/squareup/okhttp/ConnectionPool$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/com/squareup/okhttp/ConnectionPool.class" afterPath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/com/squareup/okhttp/ConnectionPool.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/org/apache/cordova/CordovaActivity$4.class" afterPath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/org/apache/cordova/CordovaActivity$4.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/org/apache/cordova/CordovaActivity$5.class" afterPath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/org/apache/cordova/CordovaActivity$5.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/org/apache/cordova/CordovaActivity.class" afterPath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/org/apache/cordova/CordovaActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/org/apache/cordova/CordovaChromeClient.class" afterPath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/org/apache/cordova/CordovaChromeClient.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/org/apache/cordova/CordovaWebView.class" afterPath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/org/apache/cordova/CordovaWebView.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/org/apache/cordova/CordovaWebViewClient$1.class" afterPath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/org/apache/cordova/CordovaWebViewClient$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/org/apache/cordova/CordovaWebViewClient.class" afterPath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/org/apache/cordova/CordovaWebViewClient.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/com/squareup/okhttp/internal/DiskLruCache.class" afterPath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/com/squareup/okhttp/internal/DiskLruCache.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/com/squareup/okhttp/Dispatcher.class" afterPath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/com/squareup/okhttp/Dispatcher.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/com/squareup/okhttp/internal/Dns.class" afterPath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/com/squareup/okhttp/internal/Dns.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/com/squareup/okhttp/internal/http/HttpAuthenticator.class" afterPath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/com/squareup/okhttp/internal/http/HttpAuthenticator.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/com/squareup/okhttp/internal/http/HttpDate.class" afterPath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/com/squareup/okhttp/internal/http/HttpDate.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/com/squareup/okhttp/internal/http/HttpEngine.class" afterPath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/com/squareup/okhttp/internal/http/HttpEngine.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/com/squareup/okhttp/HttpResponseCache$CacheRequestImpl.class" afterPath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/com/squareup/okhttp/HttpResponseCache$CacheRequestImpl.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/com/squareup/okhttp/HttpResponseCache.class" afterPath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/com/squareup/okhttp/HttpResponseCache.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/com/squareup/okhttp/internal/spdy/IncomingStreamHandler.class" afterPath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/com/squareup/okhttp/internal/spdy/IncomingStreamHandler.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/com/squareup/okhttp/internal/spdy/NameValueBlockReader.class" afterPath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/com/squareup/okhttp/internal/spdy/NameValueBlockReader.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/org/apache/cordova/NativeToJsMessageQueue$LoadUrlBridgeMode.class" afterPath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/org/apache/cordova/NativeToJsMessageQueue$LoadUrlBridgeMode.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/org/apache/cordova/NativeToJsMessageQueue$OnlineEventsBridgeMode.class" afterPath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/org/apache/cordova/NativeToJsMessageQueue$OnlineEventsBridgeMode.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/com/squareup/okhttp/internal/tls/OkHostnameVerifier.class" afterPath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/com/squareup/okhttp/internal/tls/OkHostnameVerifier.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/com/squareup/okhttp/OkHttpClient.class" afterPath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/com/squareup/okhttp/OkHttpClient.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/org/apache/cordova/PluginManager$PluginManagerService.class" afterPath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/org/apache/cordova/PluginManager$PluginManagerService.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/org/apache/cordova/PluginManager.class" afterPath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/org/apache/cordova/PluginManager.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/com/squareup/okhttp/internal/http/RawHeaders.class" afterPath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/com/squareup/okhttp/internal/http/RawHeaders.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/com/squareup/okhttp/Request$Body$1.class" afterPath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/com/squareup/okhttp/Request$Body$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/com/squareup/okhttp/Request$Body$2.class" afterPath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/com/squareup/okhttp/Request$Body$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/com/squareup/okhttp/Request$Body.class" afterPath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/com/squareup/okhttp/Request$Body.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/com/squareup/okhttp/internal/http/RequestHeaders.class" afterPath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/com/squareup/okhttp/internal/http/RequestHeaders.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/com/squareup/okhttp/internal/http/ResponseHeaders.class" afterPath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/com/squareup/okhttp/internal/http/ResponseHeaders.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/com/squareup/okhttp/internal/spdy/Spdy3$Writer.class" afterPath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/com/squareup/okhttp/internal/spdy/Spdy3$Writer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/com/squareup/okhttp/internal/spdy/SpdyConnection$Reader.class" afterPath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/com/squareup/okhttp/internal/spdy/SpdyConnection$Reader.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/com/squareup/okhttp/internal/spdy/SpdyConnection.class" afterPath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/com/squareup/okhttp/internal/spdy/SpdyConnection.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/com/squareup/okhttp/internal/StrictLineReader.class" afterPath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/com/squareup/okhttp/internal/StrictLineReader.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/com/squareup/okhttp/internal/Util.class" afterPath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes/com/squareup/okhttp/internal/Util.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-app/_others/_data/images/aura1.png" afterPath="$PROJECT_DIR$/camera-app/_others/_data/images/aura1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-app/_others/_data/images/aura2.png" afterPath="$PROJECT_DIR$/camera-app/_others/_data/images/aura2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/assets/www/data/images/aura3.png" afterPath="$PROJECT_DIR$/camera-android/platforms/android/assets/www/data/images/aura3.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-app/_others/_data/images/aura3.png" afterPath="$PROJECT_DIR$/camera-app/_others/_data/images/aura3.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-app/app/data/images/aura3.png" afterPath="$PROJECT_DIR$/camera-app/app/data/images/aura3.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-app/dist/data/images/aura3.png" afterPath="$PROJECT_DIR$/camera-app/dist/data/images/aura3.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/assets/www/data/images/aura4.png" afterPath="$PROJECT_DIR$/camera-android/platforms/android/assets/www/data/images/aura4.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-app/_others/_data/images/aura4.png" afterPath="$PROJECT_DIR$/camera-app/_others/_data/images/aura4.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-app/app/data/images/aura4.png" afterPath="$PROJECT_DIR$/camera-app/app/data/images/aura4.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-app/dist/data/images/aura4.png" afterPath="$PROJECT_DIR$/camera-app/dist/data/images/aura4.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-app/_others/_data/images/aura5.png" afterPath="$PROJECT_DIR$/camera-app/_others/_data/images/aura5.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-app/_others/_data/images/beam1.png" afterPath="$PROJECT_DIR$/camera-app/_others/_data/images/beam1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-app/_others/_data/images/beam10.png" afterPath="$PROJECT_DIR$/camera-app/_others/_data/images/beam10.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-app/_others/_data/images/beam11.png" afterPath="$PROJECT_DIR$/camera-app/_others/_data/images/beam11.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-app/_others/_data/images/beam2.png" afterPath="$PROJECT_DIR$/camera-app/_others/_data/images/beam2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-app/_others/_data/images/beam3.png" afterPath="$PROJECT_DIR$/camera-app/_others/_data/images/beam3.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-app/_others/_data/images/beam4.png" afterPath="$PROJECT_DIR$/camera-app/_others/_data/images/beam4.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-app/_others/_data/images/beam5.png" afterPath="$PROJECT_DIR$/camera-app/_others/_data/images/beam5.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-app/_others/_data/images/beam6.png" afterPath="$PROJECT_DIR$/camera-app/_others/_data/images/beam6.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-app/_others/_data/images/beam7.png" afterPath="$PROJECT_DIR$/camera-app/_others/_data/images/beam7.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/assets/www/data/images/beam8.png" afterPath="$PROJECT_DIR$/camera-android/platforms/android/assets/www/data/images/beam8.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-app/_others/_data/images/beam8.png" afterPath="$PROJECT_DIR$/camera-app/_others/_data/images/beam8.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-app/app/data/images/beam8.png" afterPath="$PROJECT_DIR$/camera-app/app/data/images/beam8.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-app/dist/data/images/beam8.png" afterPath="$PROJECT_DIR$/camera-app/dist/data/images/beam8.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-app/_others/_data/images/beam9.png" afterPath="$PROJECT_DIR$/camera-app/_others/_data/images/beam9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-app/_others/_data/images/boom1.png" afterPath="$PROJECT_DIR$/camera-app/_others/_data/images/boom1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-app/_others/_data/images/boom3.png" afterPath="$PROJECT_DIR$/camera-app/_others/_data/images/boom3.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes.jar" afterPath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/classes.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-app/_others/_data/images/hair1.png" afterPath="$PROJECT_DIR$/camera-app/_others/_data/images/hair1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-app/_others/_data/images/hair2.png" afterPath="$PROJECT_DIR$/camera-app/_others/_data/images/hair2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-app/_others/_data/images/hair3.png" afterPath="$PROJECT_DIR$/camera-app/_others/_data/images/hair3.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-app/_others/_data/images/hair4.png" afterPath="$PROJECT_DIR$/camera-app/_others/_data/images/hair4.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-app/_others/_data/images/hair5.png" afterPath="$PROJECT_DIR$/camera-app/_others/_data/images/hair5.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-app/_others/_data/images/hair6.png" afterPath="$PROJECT_DIR$/camera-app/_others/_data/images/hair6.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/res/drawable/icon.png" afterPath="$PROJECT_DIR$/camera-android/platforms/android/res/drawable/icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/assets/www/data/images/misc1.png" afterPath="$PROJECT_DIR$/camera-android/platforms/android/assets/www/data/images/misc1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-app/_others/_data/images/misc1.png" afterPath="$PROJECT_DIR$/camera-app/_others/_data/images/misc1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-app/app/data/images/misc1.png" afterPath="$PROJECT_DIR$/camera-app/app/data/images/misc1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-app/dist/data/images/misc1.png" afterPath="$PROJECT_DIR$/camera-app/dist/data/images/misc1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/AndroidManifest.xml.d" afterPath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/AndroidManifest.xml.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/AndroidManifest.xml" afterPath="$PROJECT_DIR$/camera-android/platforms/android/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-app/Gruntfile.js" afterPath="$PROJECT_DIR$/camera-app/Gruntfile.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-gen/R.java.d" afterPath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-gen/R.java.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/gen/com/dragon/app2/R.java" afterPath="$PROJECT_DIR$/camera-android/platforms/android/gen/com/dragon/app2/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-app/app/scripts/app.js" afterPath="$PROJECT_DIR$/camera-app/app/scripts/app.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/build.prop" afterPath="$PROJECT_DIR$/camera-android/platforms/android/CordovaLib/ant-build/build.prop" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-app/app/scripts/common/picture/camera.service.js" afterPath="$PROJECT_DIR$/camera-app/app/scripts/common/picture/camera.service.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/res/xml/config.xml" afterPath="$PROJECT_DIR$/camera-android/platforms/android/res/xml/config.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/assets/www/cordova_plugins.js" afterPath="$PROJECT_DIR$/camera-android/platforms/android/assets/www/cordova_plugins.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/assets/www/data/data.json" afterPath="$PROJECT_DIR$/camera-android/platforms/android/assets/www/data/data.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-app/app/data/data.json" afterPath="$PROJECT_DIR$/camera-app/app/data/data.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-app/dist/data/data.json" afterPath="$PROJECT_DIR$/camera-app/dist/data/data.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-app/app/scripts/common/directives/draggable.directive.js" afterPath="$PROJECT_DIR$/camera-app/app/scripts/common/directives/draggable.directive.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-app/app/scripts/home/home.controller.js" afterPath="$PROJECT_DIR$/camera-app/app/scripts/home/home.controller.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/assets/www/views/home/home.html" afterPath="$PROJECT_DIR$/camera-android/platforms/android/assets/www/views/home/home.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-app/dist/views/home/home.html" afterPath="$PROJECT_DIR$/camera-app/dist/views/home/home.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/assets/www/index.html" afterPath="$PROJECT_DIR$/camera-android/platforms/android/assets/www/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-app/app/index.html" afterPath="$PROJECT_DIR$/camera-app/app/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-app/dist/index.html" afterPath="$PROJECT_DIR$/camera-app/dist/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/make_icon.bat" afterPath="$PROJECT_DIR$/make_icon.bat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mklink_www_dist.bat" afterPath="$PROJECT_DIR$/mklink_www_dist.bat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-app/app/scripts/common/network/network.service.js" afterPath="$PROJECT_DIR$/camera-app/app/scripts/common/network/network.service.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/assets/www/libs/ng-cordova.js" afterPath="$PROJECT_DIR$/camera-android/platforms/android/assets/www/libs/ng-cordova.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-app/app/libs/ng-cordova.js" afterPath="$PROJECT_DIR$/camera-app/app/libs/ng-cordova.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-app/dist/libs/ng-cordova.js" afterPath="$PROJECT_DIR$/camera-app/dist/libs/ng-cordova.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-app/app/scripts/common/notification/notification.service.js" afterPath="$PROJECT_DIR$/camera-app/app/scripts/common/notification/notification.service.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-android/platforms/android/assets/www/libs/owl.carousel.js" afterPath="$PROJECT_DIR$/camera-android/platforms/android/assets/www/libs/owl.carousel.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-app/dist/libs/owl.carousel.js" afterPath="$PROJECT_DIR$/camera-app/dist/libs/owl.carousel.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera-app/app/scripts/common/sharing/sharing.service.js" afterPath="$PROJECT_DIR$/camera-app/app/scripts/common/sharing/sharing.service.js" />
     </list>
     <ignored path="DRAGON_CAMERA.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -62,12 +263,7 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="3842" max-vertical-offset="5610">
               <caret line="227" column="0" selection-start-line="227" selection-start-column="0" selection-end-line="228" selection-end-column="0" />
-              <folding>
-                <marker date="1404745394047" expanded="false" signature="6943:7018" placeholder="..." />
-                <marker date="1404745394047" expanded="false" signature="9839:9851" placeholder="..." />
-                <marker date="1404745394047" expanded="false" signature="10776:10840" placeholder="..." />
-                <marker date="1404745394047" expanded="false" signature="10872:10906" placeholder="..." />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -108,8 +304,8 @@
       <file leaf-file-name="home.controller.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/camera-app/app/scripts/home/home.controller.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="1717" max-vertical-offset="2074">
-              <caret line="101" column="40" selection-start-line="101" selection-start-column="40" selection-end-line="101" selection-end-column="40" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="1717" max-vertical-offset="2176">
+              <caret line="101" column="11" selection-start-line="101" selection-start-column="11" selection-end-line="101" selection-end-column="11" />
               <folding />
             </state>
           </provider>
@@ -118,7 +314,7 @@
       <file leaf-file-name="app.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/camera-app/app/scripts/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="1088">
+            <state vertical-scroll-proportion="0.0" vertical-offset="680" max-vertical-offset="969">
               <caret line="40" column="8" selection-start-line="40" selection-start-column="8" selection-end-line="40" selection-end-column="43" />
               <folding />
             </state>
@@ -128,7 +324,7 @@
       <file leaf-file-name="admob.service.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/camera-app/app/scripts/common/ad/admob.service.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.93939394" vertical-offset="0" max-vertical-offset="1105">
+            <state vertical-scroll-proportion="0.48841354" vertical-offset="253" max-vertical-offset="1105">
               <caret line="31" column="6" selection-start-line="31" selection-start-column="6" selection-end-line="31" selection-end-column="6" />
               <folding />
             </state>
@@ -138,11 +334,9 @@
       <file leaf-file-name="ionic-angular.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/camera-app/bower_components/ionic/release/js/ionic-angular.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.754386" vertical-offset="13204" max-vertical-offset="91392">
+            <state vertical-scroll-proportion="0.0" vertical-offset="13204" max-vertical-offset="91392">
               <caret line="796" column="59" selection-start-line="796" selection-start-column="59" selection-end-line="796" selection-end-column="59" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -150,11 +344,9 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/camera-app/app/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-19.884615" vertical-offset="316" max-vertical-offset="2108">
+            <state vertical-scroll-proportion="0.0" vertical-offset="833" max-vertical-offset="2074">
               <caret line="49" column="59" selection-start-line="49" selection-start-column="59" selection-end-line="49" selection-end-column="59" />
-              <folding>
-                <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -395,6 +587,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -665,9 +858,48 @@
               <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DRAGON_CAMERA" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="camera-app" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="data" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DRAGON_CAMERA" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="camera-app" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="data" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -848,6 +1080,7 @@
       <workItem from="1404731397446" duration="2811000" />
       <workItem from="1404740431624" duration="4499000" />
       <workItem from="1404801867385" duration="2611000" />
+      <workItem from="1404804546409" duration="37000" />
     </task>
     <task id="LOCAL-00001" summary="fsf">
       <created>1404728348370</created>
@@ -881,7 +1114,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11988000" />
+    <option name="totallyTimeSpent" value="12025000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1010" extended-state="0" />
@@ -903,7 +1136,6 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32992035" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Grunt" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32992035" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -916,6 +1148,7 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32992035" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -949,12 +1182,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="3854" max-vertical-offset="5610">
           <caret line="160" column="42" selection-start-line="160" selection-start-column="42" selection-end-line="160" selection-end-column="42" />
-          <folding>
-            <marker date="1404745394047" expanded="false" signature="6943:7018" placeholder="..." />
-            <marker date="1404745394047" expanded="false" signature="9839:9851" placeholder="..." />
-            <marker date="1404745394047" expanded="false" signature="10776:10840" placeholder="..." />
-            <marker date="1404745394047" expanded="false" signature="10872:10906" placeholder="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1021,7 +1249,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="153">
           <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1102,7 +1329,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="153">
           <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1136,12 +1362,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="4238" max-vertical-offset="5474">
           <caret line="261" column="17" selection-start-line="261" selection-start-column="17" selection-end-line="261" selection-end-column="17" />
-          <folding>
-            <marker date="1404745394047" expanded="false" signature="6943:7018" placeholder="..." />
-            <marker date="1404745394047" expanded="false" signature="9839:9851" placeholder="..." />
-            <marker date="1404745394047" expanded="false" signature="10776:10840" placeholder="..." />
-            <marker date="1404745394047" expanded="false" signature="10872:10906" placeholder="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1189,7 +1410,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="153">
           <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1266,8 +1486,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/camera-app/app/scripts/home/home.controller.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1223" max-vertical-offset="2074">
-          <caret line="101" column="40" selection-start-line="101" selection-start-column="40" selection-end-line="101" selection-end-column="40" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="1717" max-vertical-offset="2176">
+          <caret line="101" column="11" selection-start-line="101" selection-start-column="11" selection-end-line="101" selection-end-column="11" />
           <folding />
         </state>
       </provider>
@@ -1276,12 +1496,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="3842" max-vertical-offset="5610">
           <caret line="227" column="0" selection-start-line="227" selection-start-column="0" selection-end-line="228" selection-end-column="0" />
-          <folding>
-            <marker date="1404745394047" expanded="false" signature="6943:7018" placeholder="..." />
-            <marker date="1404745394047" expanded="false" signature="9839:9851" placeholder="..." />
-            <marker date="1404745394047" expanded="false" signature="10776:10840" placeholder="..." />
-            <marker date="1404745394047" expanded="false" signature="10872:10906" placeholder="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1291,11 +1506,6 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/camera-app/app/favicon.ico">
-      <provider selected="true" editor-type-id="images">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/camera-app/config/config.js">
@@ -1340,21 +1550,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/camera-app/bower_components/ionic/release/js/ionic-angular.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.754386" vertical-offset="13204" max-vertical-offset="91392">
+        <state vertical-scroll-proportion="0.0" vertical-offset="13204" max-vertical-offset="91392">
           <caret line="796" column="59" selection-start-line="796" selection-start-column="59" selection-end-line="796" selection-end-column="59" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/camera-app/app/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-19.884615" vertical-offset="316" max-vertical-offset="2108">
+        <state vertical-scroll-proportion="0.0" vertical-offset="833" max-vertical-offset="2074">
           <caret line="49" column="59" selection-start-line="49" selection-start-column="59" selection-end-line="49" selection-end-column="59" />
-          <folding>
-            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1366,9 +1572,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/camera-app/app/data/images/hair9.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/camera-app/app/scripts/common/ad/admob.service.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.93939394" vertical-offset="0" max-vertical-offset="1105">
+        <state vertical-scroll-proportion="0.48841354" vertical-offset="253" max-vertical-offset="1105">
           <caret line="31" column="6" selection-start-line="31" selection-start-column="6" selection-end-line="31" selection-end-column="6" />
           <folding />
         </state>

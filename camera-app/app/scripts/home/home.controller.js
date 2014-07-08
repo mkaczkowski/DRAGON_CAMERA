@@ -74,10 +74,10 @@ angular.module('sioWebApp.home').controller('HomeCtrl', function ($scope, $ionic
 							function(msg){
 								hide();
 								if(successHandler){
-									successHandler(msg)
+									successHandler(canvas.toDataURL())
 								}else{
 									notificationService.savedConfirm(msg,
-											function (path) {$scope.sharePicure(path)});
+											function (path) {sharingService.shareViaFacebook(path)});
 								}
 							},function(err){
 								hide();
@@ -96,7 +96,10 @@ angular.module('sioWebApp.home').controller('HomeCtrl', function ($scope, $ionic
 	};
 
 	$scope.getPicture = function(){
-		cameraService.getPicture("pictureContainer");
+		cameraService.getPicture("pictureContainer", function(){
+            mySharedService.clearAll();
+            $scope.isEmpty = true;
+        });
 	};
 
 	$scope.clearWhiteboard = function(){
@@ -108,7 +111,10 @@ angular.module('sioWebApp.home').controller('HomeCtrl', function ($scope, $ionic
 	};
 
 	$scope.loadImage = function(){
-		cameraService.loadImageFromLibrary("pictureContainer");
+		cameraService.loadImageFromLibrary("pictureContainer",function(){
+            mySharedService.clearAll();
+            $scope.isEmpty = true;
+        });
 	};
 
 	mySharedService.init();
