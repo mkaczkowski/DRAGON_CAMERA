@@ -1,59 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="08aaa4f5-c55f-4827-b987-8be40e15e954" name="Default" comment="fsf">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-android/plugins/com.rjfun.cordova.plugin.admob/docs/AdMob.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-android/plugins/com.rjfun.cordova.plugin.admob/src/wp8/GoogleAds.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-android/plugins/com.rjfun.cordova.plugin.admob/admob-android.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-android/plugins/com.rjfun.cordova.plugin.admob/admob-ipad-landscape.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-android/plugins/com.rjfun.cordova.plugin.admob/admob-iphone.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-android/plugins/com.google.playservices/google-play-services.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-android/plugins/com.rjfun.cordova.plugin.admob/src/ios/libGoogleAdMobAds.a" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-android/plugins/com.google.playservices/.fetch.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-android/plugins/com.rjfun.cordova.plugin.admob/.fetch.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-android/plugins/com.rjfun.cordova.plugin.admob/src/wp8/AdMob.cs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-android/platforms/android/src/com/rjfun/cordova/plugin/AdMob.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-android/plugins/com.rjfun.cordova.plugin.admob/src/android/AdMob.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-android/plugins/com.rjfun.cordova.plugin.admob/www/AdMob.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-android/plugins/com.rjfun.cordova.plugin.admob/src/ios/CDVAdMob.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-android/plugins/com.rjfun.cordova.plugin.admob/src/ios/CDVAdMob.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-android/plugins/com.rjfun.cordova.plugin.admob/src/ios/Add-ons/DoubleClick/DFPBannerView.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-android/plugins/com.rjfun.cordova.plugin.admob/src/ios/Add-ons/DoubleClick/DFPExtras.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-android/plugins/com.rjfun.cordova.plugin.admob/src/ios/Add-ons/DoubleClick/DFPInterstitial.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-android/plugins/com.rjfun.cordova.plugin.admob/src/ios/Add-ons/DoubleClick/DFPSwipeableBannerView.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-android/plugins/com.rjfun.cordova.plugin.admob/src/ios/GADAdMobExtras.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-android/plugins/com.rjfun.cordova.plugin.admob/src/ios/GADAdNetworkExtras.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-android/plugins/com.rjfun.cordova.plugin.admob/src/ios/GADAdSize.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-android/plugins/com.rjfun.cordova.plugin.admob/src/ios/Add-ons/DoubleClick/GADAdSizeDelegate.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-android/plugins/com.rjfun.cordova.plugin.admob/src/ios/Add-ons/DoubleClick/GADAppEventDelegate.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-android/plugins/com.rjfun.cordova.plugin.admob/src/ios/GADBannerView.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-android/plugins/com.rjfun.cordova.plugin.admob/src/ios/GADBannerViewDelegate.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-android/plugins/com.rjfun.cordova.plugin.admob/src/ios/Add-ons/Mediation/GADCustomEventBanner.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-android/plugins/com.rjfun.cordova.plugin.admob/src/ios/Add-ons/Mediation/GADCustomEventBannerDelegate.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-android/plugins/com.rjfun.cordova.plugin.admob/src/ios/Add-ons/Mediation/GADCustomEventExtras.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-android/plugins/com.rjfun.cordova.plugin.admob/src/ios/Add-ons/Mediation/GADCustomEventInterstitial.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-android/plugins/com.rjfun.cordova.plugin.admob/src/ios/Add-ons/Mediation/GADCustomEventInterstitialDelegate.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-android/plugins/com.rjfun.cordova.plugin.admob/src/ios/Add-ons/Mediation/GADCustomEventRequest.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-android/plugins/com.rjfun.cordova.plugin.admob/src/ios/GADInAppPurchase.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-android/plugins/com.rjfun.cordova.plugin.admob/src/ios/GADInAppPurchaseDelegate.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-android/plugins/com.rjfun.cordova.plugin.admob/src/ios/GADInterstitial.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-android/plugins/com.rjfun.cordova.plugin.admob/src/ios/GADInterstitialDelegate.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-android/plugins/com.rjfun.cordova.plugin.admob/src/ios/GADModules.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-android/plugins/com.rjfun.cordova.plugin.admob/src/ios/GADRequest.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-android/plugins/com.rjfun.cordova.plugin.admob/src/ios/GADRequestError.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-android/plugins/com.rjfun.cordova.plugin.admob/src/ios/Add-ons/Search/GADSearchBannerView.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-android/plugins/com.rjfun.cordova.plugin.admob/src/ios/Add-ons/Search/GADSearchRequest.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-android/plugins/com.rjfun.cordova.plugin.admob/src/ios/Add-ons/DoubleClick/GADSwipeableBannerViewDelegate.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-android/plugins/com.rjfun.cordova.plugin.admob/src/wp8/GoogleAds.XML" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-android/plugins/com.rjfun.cordova.plugin.admob/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-android/plugins/com.google.playservices/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-android/plugins/com.rjfun.cordova.plugin.admob/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-android/plugins/com.rjfun.cordova.plugin.admob/src/android/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-android/plugins/com.rjfun.cordova.plugin.admob/src/ios/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-android/plugins/com.rjfun.cordova.plugin.admob/test/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-android/plugins/com.google.playservices/plugin.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-android/plugins/com.rjfun.cordova.plugin.admob/plugin.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-android/plugins/com.google.playservices/version.xml" />
+    <list default="true" id="08aaa4f5-c55f-4827-b987-8be40e15e954" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="DRAGON_CAMERA.iws" />
@@ -899,7 +847,7 @@
       <workItem from="1404726491238" duration="2067000" />
       <workItem from="1404731397446" duration="2811000" />
       <workItem from="1404740431624" duration="4499000" />
-      <workItem from="1404801867385" duration="2600000" />
+      <workItem from="1404801867385" duration="2611000" />
     </task>
     <task id="LOCAL-00001" summary="fsf">
       <created>1404728348370</created>
@@ -925,11 +873,15 @@
       <created>1404804454782</created>
       <updated>1404804454782</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="fsf">
+      <created>1404804473080</created>
+      <updated>1404804473080</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11977000" />
+    <option name="totallyTimeSpent" value="11988000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1010" extended-state="0" />
