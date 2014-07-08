@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="08aaa4f5-c55f-4827-b987-8be40e15e954" name="Default" comment="" />
+    <list default="true" id="08aaa4f5-c55f-4827-b987-8be40e15e954" name="Default" comment="naruto">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-app/_others/0.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-app/_others/0chidori21final.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-app/_others/Real_life_Rasengan_by_NoLimits3000.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-app/_others/hqdefault (1).jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-app/_others/hqdefault.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-app/_others/maxresdefault (1).jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-app/_others/maxresdefault.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/camera-app/_others/unnamed.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="DRAGON_CAMERA.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -627,7 +637,8 @@
     </option>
     <MESSAGE value="fsf" />
     <MESSAGE value="Merge branch 'master' of https://github.com/mkaczkowski/DRAGON_CAMERA&#10;&#10;Conflicts:&#10;&#9;.idea/workspace.xml&#10;&#9;camera-app/_others/_data/images/boom2.png&#10;&#9;camera-app/app/scripts/config.js&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'master' of https://github.com/mkaczkowski/DRAGON_CAMERA&#10;&#10;Conflicts:&#10;&#9;.idea/workspace.xml&#10;&#9;camera-app/_others/_data/images/boom2.png&#10;&#9;camera-app/app/scripts/config.js&#10;" />
+    <MESSAGE value="naruto" />
+    <option name="LAST_COMMIT_MESSAGE" value="naruto" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
